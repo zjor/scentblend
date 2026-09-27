@@ -1,0 +1,6 @@
+[mcp_servers.youtrack]
+url = "https://scentblend.youtrack.cloud/mcp"
+http_headers_helper = "/Users/zjor/projects/scentblend/.codex/youtrack-headers.sh"
+
+[mcp_servers.youtrack.tools.update_issue]
+approval_mode = "approve"

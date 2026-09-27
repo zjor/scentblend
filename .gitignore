@@ -1,0 +1,9 @@
+data/raw/*
+.DS_Store
+.env.local
+data/categories/*
+data/enriched/*
+reports/*
+!data/raw/.gitkeep
+!data/categories/.gitkeep
+!data/enriched/.gitkeep
