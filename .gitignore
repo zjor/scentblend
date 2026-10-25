@@ -1,6 +1,7 @@
 data/raw/*
 .DS_Store
 .env.local
+__pycache__/
 data/categories/*
 data/enriched/*
 reports/*

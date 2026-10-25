@@ -2,9 +2,29 @@
 
 This project holds bank exports and a manual classification for a simple monthly management P&L. It is not an accounting ledger or a tax return.
 
+## Processing new exports
+
+Reusable processing tools live in [`scripts/`](scripts/README.md). Copy unchanged exports into `data/raw/`, then preview and apply the import:
+
+```sh
+python3 scripts/process_transactions.py
+python3 scripts/process_transactions.py --write
+```
+
+The importer merges overlapping exports by transaction ID, preserves manual classifications and existing suggestions, rebuilds customer totals, and generates a monthly cash movement report. New transactions need classification review. See the [workflow](scripts/README.md) for the subsequent review, P&L, and forecast steps.
+
+After importing, preview suggestions with `python3 scripts/suggest_classifications.py`, then apply them with `--write`. This updates the review file and customer totals and produces `reports/classification_review.md`; it preserves manual classifications and previous suggestions.
+
+After review, run `python3 scripts/build_reports.py --write` to rebuild the provisional P&L cash proxy, customer receipt review, and forecast CSVs using current assumptions. Every month reconciles to bank movements; unresolved costs and missing accounting adjustments keep profit metrics pending.
+
+Run `python3 scripts/project_cashflow.py --write` for a monthly cash-flow sensitivity estimate using the opening balance and spending reference month in `data/enriched/cashflow-assumptions.json`. The output keeps EUR receipts separate from projected CZK balances.
+
+Run `python3 scripts/project_valuation.py --write` for an optimistic year-end operating-value sensitivity through 2030. Private modeling inputs are in `data/enriched/valuation-assumptions.json`; the report distinguishes future enterprise value from current value and shareholder proceeds.
+
 ## Files
 
 - `data/raw/` — original bank CSV exports. Keep each export unchanged.
+- `data/enriched/normalized-transactions.csv` — deduplicated bank transactions with separate execution dates and booking timestamps.
 - `data/categories/transactions.csv` — one classification row per bank transaction, matched by `transaction_id` (`Id transakce` in the Raiffeisenbank export).
 - `data/enriched/transactions.csv` — a separate review list with bank context and suggested `guess_bucket` and `guess_customer_name`. Empty suggestions need investigation. These guesses do not change the manual classification file.
 - `data/enriched/customers.csv` — unique customer names derived from the suggested revenue transactions, with receipt counts and gross bank receipts.
@@ -14,6 +34,7 @@ This project holds bank exports and a manual classification for a simple monthly
 - `data/enriched/forecast-quarterly.csv` — long-format quarterly results by client and revenue stream.
 - `data/enriched/forecast-summary.csv` — one row per quarter with as-is and optimistic totals in separate CZK and EUR columns.
 - `reports/pnl_provisional.md` — bank-based P&L proxy and the data gaps that prevent an accurate P&L.
+- `reports/cash_movements.md` — generated monthly bank movements across all exports, including transfers and funding.
 - `reports/revenue-forecast.md` — quarterly customer revenue scenarios through 2027 and their assumptions.
 
 All three data directories and generated reports contain private financial information and are excluded from Git.
