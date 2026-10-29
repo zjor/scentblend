@@ -1,6 +1,6 @@
 # Scent Blend finances
 
-This project holds bank exports and a manual classification for a simple monthly management P&L. It is not an accounting ledger or a tax return.
+This project holds bank exports and a manual classification for a simple monthly management P&L. It is not an accounting ledger or a tax return. Company identity and what the business sells are in [`BUSINESS.md`](BUSINESS.md).
 
 ## Processing new exports
 
