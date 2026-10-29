@@ -1,0 +1,444 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1852" height="6956" viewBox="0 0 1852 6956" role="img" aria-labelledby="title desc">
+<title id="title">Scent Blend / Диагностика бизнеса</title><desc id="desc">Люди, процессы, сущности и точки роста · Карта вопросов с исходными сведениями Редактируемый векторный текст. Цветные узлы содержат сведения с указанием источника; белые — открытые вопросы.</desc>
+<style>text{font-family:Arial,Helvetica,sans-serif} .label{font-size:21px} .edge{fill:none;stroke-width:2;stroke-opacity:.42}</style>
+<rect width="1852" height="6956" fill="#f7f8f3"/>
+<path d="M48 54 H136" stroke="#245749" stroke-width="6"/>
+<text x="48" y="101" font-size="40" font-weight="700" fill="#183d34">Scent Blend / Диагностика бизнеса</text>
+<text x="48" y="143" font-size="21" fill="#51635c">Люди, процессы, сущности и точки роста · Карта вопросов с исходными сведениями</text>
+<rect x="48" y="174" width="1756" height="54" rx="12" fill="#e7ede4"/>
+<text x="68" y="208" font-size="19" fill="#294c40">Зелёный — из проекта · Синий — рабочие заметки · Песочный — публичное заявление · Белый — вопрос</text>
+<path class="edge" stroke="#245749" d="M274 3528.0 C302.0 3528.0 302.0 651.0 330 651.0"/>
+<path class="edge" stroke="#356d80" d="M274 3528.0 C302.0 3528.0 302.0 1449.0 330 1449.0"/>
+<path class="edge" stroke="#85613e" d="M274 3528.0 C302.0 3528.0 302.0 2247.0 330 2247.0"/>
+<path class="edge" stroke="#705982" d="M274 3528.0 C302.0 3528.0 302.0 3045.0 330 3045.0"/>
+<path class="edge" stroke="#477858" d="M274 3528.0 C302.0 3528.0 302.0 3857.0 330 3857.0"/>
+<path class="edge" stroke="#93624b" d="M274 3528.0 C302.0 3528.0 302.0 4683.0 330 4683.0"/>
+<path class="edge" stroke="#4c677b" d="M274 3528.0 C302.0 3528.0 302.0 5551.0 330 5551.0"/>
+<path class="edge" stroke="#245749" d="M274 3528.0 C302.0 3528.0 302.0 6405.0 330 6405.0"/>
+<path class="edge" stroke="#245749" d="M612 651.0 C643.0 651.0 643.0 399.0 674 399.0"/>
+<path class="edge" stroke="#245749" d="M612 651.0 C643.0 651.0 643.0 651.0 674 651.0"/>
+<path class="edge" stroke="#245749" d="M612 651.0 C643.0 651.0 643.0 903.0 674 903.0"/>
+<path class="edge" stroke="#245749" d="M1062 399.0 C1093.0 399.0 1093.0 336.0 1124 336.0"/>
+<path class="edge" stroke="#245749" d="M1062 399.0 C1093.0 399.0 1093.0 462.0 1124 462.0"/>
+<path class="edge" stroke="#245749" d="M1062 651.0 C1093.0 651.0 1093.0 588.0 1124 588.0"/>
+<path class="edge" stroke="#245749" d="M1062 651.0 C1093.0 651.0 1093.0 714.0 1124 714.0"/>
+<path class="edge" stroke="#245749" d="M1062 903.0 C1093.0 903.0 1093.0 840.0 1124 840.0"/>
+<path class="edge" stroke="#245749" d="M1062 903.0 C1093.0 903.0 1093.0 966.0 1124 966.0"/>
+<path class="edge" stroke="#356d80" d="M612 1449.0 C643.0 1449.0 643.0 1197.0 674 1197.0"/>
+<path class="edge" stroke="#356d80" d="M612 1449.0 C643.0 1449.0 643.0 1449.0 674 1449.0"/>
+<path class="edge" stroke="#356d80" d="M612 1449.0 C643.0 1449.0 643.0 1701.0 674 1701.0"/>
+<path class="edge" stroke="#356d80" d="M1062 1197.0 C1093.0 1197.0 1093.0 1134.0 1124 1134.0"/>
+<path class="edge" stroke="#356d80" d="M1062 1197.0 C1093.0 1197.0 1093.0 1260.0 1124 1260.0"/>
+<path class="edge" stroke="#356d80" d="M1062 1449.0 C1093.0 1449.0 1093.0 1386.0 1124 1386.0"/>
+<path class="edge" stroke="#356d80" d="M1062 1449.0 C1093.0 1449.0 1093.0 1512.0 1124 1512.0"/>
+<path class="edge" stroke="#356d80" d="M1062 1701.0 C1093.0 1701.0 1093.0 1638.0 1124 1638.0"/>
+<path class="edge" stroke="#356d80" d="M1062 1701.0 C1093.0 1701.0 1093.0 1764.0 1124 1764.0"/>
+<path class="edge" stroke="#85613e" d="M612 2247.0 C643.0 2247.0 643.0 1995.0 674 1995.0"/>
+<path class="edge" stroke="#85613e" d="M612 2247.0 C643.0 2247.0 643.0 2247.0 674 2247.0"/>
+<path class="edge" stroke="#85613e" d="M612 2247.0 C643.0 2247.0 643.0 2499.0 674 2499.0"/>
+<path class="edge" stroke="#85613e" d="M1062 1995.0 C1093.0 1995.0 1093.0 1932.0 1124 1932.0"/>
+<path class="edge" stroke="#85613e" d="M1062 1995.0 C1093.0 1995.0 1093.0 2058.0 1124 2058.0"/>
+<path class="edge" stroke="#85613e" d="M1062 2247.0 C1093.0 2247.0 1093.0 2184.0 1124 2184.0"/>
+<path class="edge" stroke="#85613e" d="M1062 2247.0 C1093.0 2247.0 1093.0 2310.0 1124 2310.0"/>
+<path class="edge" stroke="#85613e" d="M1062 2499.0 C1093.0 2499.0 1093.0 2436.0 1124 2436.0"/>
+<path class="edge" stroke="#85613e" d="M1062 2499.0 C1093.0 2499.0 1093.0 2562.0 1124 2562.0"/>
+<path class="edge" stroke="#705982" d="M612 3045.0 C643.0 3045.0 643.0 2793.0 674 2793.0"/>
+<path class="edge" stroke="#705982" d="M612 3045.0 C643.0 3045.0 643.0 3045.0 674 3045.0"/>
+<path class="edge" stroke="#705982" d="M612 3045.0 C643.0 3045.0 643.0 3297.0 674 3297.0"/>
+<path class="edge" stroke="#705982" d="M1062 2793.0 C1093.0 2793.0 1093.0 2730.0 1124 2730.0"/>
+<path class="edge" stroke="#705982" d="M1062 2793.0 C1093.0 2793.0 1093.0 2856.0 1124 2856.0"/>
+<path class="edge" stroke="#705982" d="M1062 3045.0 C1093.0 3045.0 1093.0 2982.0 1124 2982.0"/>
+<path class="edge" stroke="#705982" d="M1062 3045.0 C1093.0 3045.0 1093.0 3108.0 1124 3108.0"/>
+<path class="edge" stroke="#705982" d="M1062 3297.0 C1093.0 3297.0 1093.0 3234.0 1124 3234.0"/>
+<path class="edge" stroke="#705982" d="M1062 3297.0 C1093.0 3297.0 1093.0 3360.0 1124 3360.0"/>
+<path class="edge" stroke="#477858" d="M612 3857.0 C643.0 3857.0 643.0 3605.0 674 3605.0"/>
+<path class="edge" stroke="#477858" d="M612 3857.0 C643.0 3857.0 643.0 3871.0 674 3871.0"/>
+<path class="edge" stroke="#477858" d="M612 3857.0 C643.0 3857.0 643.0 4123.0 674 4123.0"/>
+<path class="edge" stroke="#477858" d="M1062 3605.0 C1093.0 3605.0 1093.0 3542.0 1124 3542.0"/>
+<path class="edge" stroke="#477858" d="M1062 3605.0 C1093.0 3605.0 1093.0 3682.0 1124 3682.0"/>
+<path class="edge" stroke="#477858" d="M1062 3871.0 C1093.0 3871.0 1093.0 3808.0 1124 3808.0"/>
+<path class="edge" stroke="#477858" d="M1062 3871.0 C1093.0 3871.0 1093.0 3934.0 1124 3934.0"/>
+<path class="edge" stroke="#477858" d="M1062 4123.0 C1093.0 4123.0 1093.0 4060.0 1124 4060.0"/>
+<path class="edge" stroke="#477858" d="M1062 4123.0 C1093.0 4123.0 1093.0 4186.0 1124 4186.0"/>
+<path class="edge" stroke="#93624b" d="M612 4683.0 C643.0 4683.0 643.0 4417.0 674 4417.0"/>
+<path class="edge" stroke="#93624b" d="M612 4683.0 C643.0 4683.0 643.0 4683.0 674 4683.0"/>
+<path class="edge" stroke="#93624b" d="M612 4683.0 C643.0 4683.0 643.0 4949.0 674 4949.0"/>
+<path class="edge" stroke="#93624b" d="M1062 4417.0 C1093.0 4417.0 1093.0 4354.0 1124 4354.0"/>
+<path class="edge" stroke="#93624b" d="M1062 4417.0 C1093.0 4417.0 1093.0 4480.0 1124 4480.0"/>
+<path class="edge" stroke="#93624b" d="M1062 4683.0 C1093.0 4683.0 1093.0 4620.0 1124 4620.0"/>
+<path class="edge" stroke="#93624b" d="M1062 4683.0 C1093.0 4683.0 1093.0 4760.0 1124 4760.0"/>
+<path class="edge" stroke="#93624b" d="M1062 4949.0 C1093.0 4949.0 1093.0 4886.0 1124 4886.0"/>
+<path class="edge" stroke="#93624b" d="M1062 4949.0 C1093.0 4949.0 1093.0 5012.0 1124 5012.0"/>
+<path class="edge" stroke="#4c677b" d="M612 5551.0 C643.0 5551.0 643.0 5257.0 674 5257.0"/>
+<path class="edge" stroke="#4c677b" d="M612 5551.0 C643.0 5551.0 643.0 5537.0 674 5537.0"/>
+<path class="edge" stroke="#4c677b" d="M612 5551.0 C643.0 5551.0 643.0 5831.0 674 5831.0"/>
+<path class="edge" stroke="#4c677b" d="M1062 5257.0 C1093.0 5257.0 1093.0 5194.0 1124 5194.0"/>
+<path class="edge" stroke="#4c677b" d="M1062 5257.0 C1093.0 5257.0 1093.0 5334.0 1124 5334.0"/>
+<path class="edge" stroke="#4c677b" d="M1062 5537.0 C1093.0 5537.0 1093.0 5460.0 1124 5460.0"/>
+<path class="edge" stroke="#4c677b" d="M1062 5537.0 C1093.0 5537.0 1093.0 5600.0 1124 5600.0"/>
+<path class="edge" stroke="#4c677b" d="M1062 5831.0 C1093.0 5831.0 1093.0 5754.0 1124 5754.0"/>
+<path class="edge" stroke="#4c677b" d="M1062 5831.0 C1093.0 5831.0 1093.0 5908.0 1124 5908.0"/>
+<path class="edge" stroke="#245749" d="M612 6405.0 C643.0 6405.0 643.0 6153.0 674 6153.0"/>
+<path class="edge" stroke="#245749" d="M612 6405.0 C643.0 6405.0 643.0 6405.0 674 6405.0"/>
+<path class="edge" stroke="#245749" d="M612 6405.0 C643.0 6405.0 643.0 6657.0 674 6657.0"/>
+<path class="edge" stroke="#245749" d="M1062 6153.0 C1093.0 6153.0 1093.0 6090.0 1124 6090.0"/>
+<path class="edge" stroke="#245749" d="M1062 6153.0 C1093.0 6153.0 1093.0 6216.0 1124 6216.0"/>
+<path class="edge" stroke="#245749" d="M1062 6405.0 C1093.0 6405.0 1093.0 6342.0 1124 6342.0"/>
+<path class="edge" stroke="#245749" d="M1062 6405.0 C1093.0 6405.0 1093.0 6468.0 1124 6468.0"/>
+<path class="edge" stroke="#245749" d="M1062 6657.0 C1093.0 6657.0 1093.0 6594.0 1124 6594.0"/>
+<path class="edge" stroke="#245749" d="M1062 6657.0 C1093.0 6657.0 1093.0 6720.0 1124 6720.0"/>
+<g><rect x="48" y="3499.0" width="226" height="58" rx="12" fill="#245749" stroke="#245749" stroke-opacity="0"/>
+<text class="label" x="66" y="3528.0" fill="#ffffff" font-weight="700">Scent Blend</text>
+</g>
+<g><rect x="330" y="622.0" width="282" height="58" rx="12" fill="#245749" stroke="#245749" stroke-opacity="0"/>
+<text class="label" x="348" y="651.0" fill="#ffffff" font-weight="700">01  Бизнес и цели</text>
+</g>
+<g><rect x="674" y="370.0" width="388" height="58" rx="12" fill="#e8eee6" stroke="#245749" stroke-opacity="0.22"/>
+<text class="label" x="692" y="399.0" fill="#243b33" font-weight="700">Компания и история</text>
+</g>
+<g><rect x="1124" y="281.0" width="680" height="110" rx="12" fill="#e3efe9" stroke="#245749" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="310.0" fill="#243b33" font-weight="400">ИЗ ПРОЕКТА [B] · Scent Blend s.r.o.; IČO 21260150.</text>
+<text class="label" x="1142" y="338.0" fill="#243b33" font-weight="400">Регистрация юрлица: 16.02.2024. На сайте — история</text>
+<text class="label" x="1142" y="366.0" fill="#243b33" font-weight="400">бренда с 2020 года.</text>
+</g>
+<g><rect x="1124" y="407.0" width="680" height="110" rx="12" fill="#ffffff" stroke="#245749" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="436.0" fill="#243b33" font-weight="400">Кому принадлежат бизнес, бренд и рецептуры? Что</text>
+<text class="label" x="1142" y="464.0" fill="#243b33" font-weight="400">существовало до регистрации юрлица и как связано с</text>
+<text class="label" x="1142" y="492.0" fill="#243b33" font-weight="400">ним сейчас?</text>
+</g>
+<g><rect x="674" y="622.0" width="388" height="58" rx="12" fill="#e8eee6" stroke="#245749" stroke-opacity="0.22"/>
+<text class="label" x="692" y="651.0" fill="#243b33" font-weight="700">Направления и клиенты</text>
+</g>
+<g><rect x="1124" y="533.0" width="680" height="110" rx="12" fill="#e3efe9" stroke="#245749" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="562.0" fill="#243b33" font-weight="400">ИЗ ПРОЕКТА [B] · На сайте: ароматизация</text>
+<text class="label" x="1142" y="590.0" fill="#243b33" font-weight="400">пространств, private label, дистрибуция, брендовые</text>
+<text class="label" x="1142" y="618.0" fill="#243b33" font-weight="400">мероприятия. Отдельно — B2C-магазин с 2026 года.</text>
+</g>
+<g><rect x="1124" y="659.0" width="680" height="110" rx="12" fill="#ffffff" stroke="#245749" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="688.0" fill="#243b33" font-weight="400">Какие направления реально работают? Кто покупатель,</text>
+<text class="label" x="1142" y="716.0" fill="#243b33" font-weight="400">плательщик и пользователь? За какой результат</text>
+<text class="label" x="1142" y="744.0" fill="#243b33" font-weight="400">платят в каждом сегменте?</text>
+</g>
+<g><rect x="674" y="874.0" width="388" height="58" rx="12" fill="#e8eee6" stroke="#245749" stroke-opacity="0.22"/>
+<text class="label" x="692" y="903.0" fill="#243b33" font-weight="700">Выбор приоритетов</text>
+</g>
+<g><rect x="1124" y="785.0" width="680" height="110" rx="12" fill="#ffffff" stroke="#245749" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="814.0" fill="#243b33" font-weight="400">Каковы три цели на 12 месяцев: прибыль, денежный</text>
+<text class="label" x="1142" y="842.0" fill="#243b33" font-weight="400">поток, активные точки или продажи? Каковы исходные</text>
+<text class="label" x="1142" y="870.0" fill="#243b33" font-weight="400">значения и целевые даты?</text>
+</g>
+<g><rect x="1124" y="911.0" width="680" height="110" rx="12" fill="#ffffff" stroke="#245749" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="940.0" fill="#243b33" font-weight="400">Почему выбирают нас, а не конкурента или отказ от</text>
+<text class="label" x="1142" y="968.0" fill="#243b33" font-weight="400">ароматизации? Что ограничивает рост и от каких</text>
+<text class="label" x="1142" y="996.0" fill="#243b33" font-weight="400">проектов готовы отказаться?</text>
+</g>
+<g><rect x="330" y="1420.0" width="282" height="58" rx="12" fill="#356d80" stroke="#356d80" stroke-opacity="0"/>
+<text class="label" x="348" y="1449.0" fill="#ffffff" font-weight="700">02  Люди и решения</text>
+</g>
+<g><rect x="674" y="1168.0" width="388" height="58" rx="12" fill="#e8eee6" stroke="#356d80" stroke-opacity="0.22"/>
+<text class="label" x="692" y="1197.0" fill="#243b33" font-weight="700">Состав команды</text>
+</g>
+<g><rect x="1124" y="1079.0" width="680" height="110" rx="12" fill="#fff0d8" stroke="#356d80" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="1108.0" fill="#243b33" font-weight="400">ПУБЛИЧНОЕ ЗАЯВЛЕНИЕ [L] · В индексированной</text>
+<text class="label" x="1142" y="1136.0" fill="#243b33" font-weight="400">странице LinkedIn указан размер 11–50 сотрудников.</text>
+<text class="label" x="1142" y="1164.0" fill="#243b33" font-weight="400">Это диапазон профиля, не подтверждённый штат.</text>
+</g>
+<g><rect x="1124" y="1205.0" width="680" height="110" rx="12" fill="#ffffff" stroke="#356d80" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="1234.0" fill="#243b33" font-weight="400">Кто реально работает: сотрудники, собственники,</text>
+<text class="label" x="1142" y="1262.0" fill="#243b33" font-weight="400">подрядчики, партнёры? Имя → роль → занятость →</text>
+<text class="label" x="1142" y="1290.0" fill="#243b33" font-weight="400">результат → кому подчиняется.</text>
+</g>
+<g><rect x="674" y="1420.0" width="388" height="58" rx="12" fill="#e8eee6" stroke="#356d80" stroke-opacity="0.22"/>
+<text class="label" x="692" y="1449.0" fill="#243b33" font-weight="700">Ответственность и полномочия</text>
+</g>
+<g><rect x="1124" y="1331.0" width="680" height="110" rx="12" fill="#ffffff" stroke="#356d80" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="1360.0" fill="#243b33" font-weight="400">Кто отвечает за продажи, рецептуры, закупки,</text>
+<text class="label" x="1142" y="1388.0" fill="#243b33" font-weight="400">производство, монтаж, сервис, контент, магазин и</text>
+<text class="label" x="1142" y="1416.0" fill="#243b33" font-weight="400">финансы? Кто заменяет каждого?</text>
+</g>
+<g><rect x="1124" y="1457.0" width="680" height="110" rx="12" fill="#ffffff" stroke="#356d80" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="1486.0" fill="#243b33" font-weight="400">Какие решения требуют собственника: скидка,</text>
+<text class="label" x="1142" y="1514.0" fill="#243b33" font-weight="400">закупка, найм, возврат? Каковы лимиты полномочий и</text>
+<text class="label" x="1142" y="1542.0" fill="#243b33" font-weight="400">затраты времени руководителя?</text>
+</g>
+<g><rect x="674" y="1672.0" width="388" height="58" rx="12" fill="#e8eee6" stroke="#356d80" stroke-opacity="0.22"/>
+<text class="label" x="692" y="1701.0" fill="#243b33" font-weight="700">Загрузка и обучение</text>
+</g>
+<g><rect x="1124" y="1583.0" width="680" height="110" rx="12" fill="#ffffff" stroke="#356d80" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="1612.0" fill="#243b33" font-weight="400">Каковы загрузка, оплата и мотивация по ролям?</text>
+<text class="label" x="1142" y="1640.0" fill="#243b33" font-weight="400">Сколько клиентов, установок и заказов выдержит</text>
+<text class="label" x="1142" y="1668.0" fill="#243b33" font-weight="400">команда без нового найма?</text>
+</g>
+<g><rect x="1124" y="1709.0" width="680" height="110" rx="12" fill="#ffffff" stroke="#356d80" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="1738.0" fill="#243b33" font-weight="400">Как нанимают и обучают? Где инструкции? Какие</text>
+<text class="label" x="1142" y="1766.0" fill="#243b33" font-weight="400">вопросы повторяются и кто принимает результат при</text>
+<text class="label" x="1142" y="1794.0" fill="#243b33" font-weight="400">передаче работы?</text>
+</g>
+<g><rect x="330" y="2206.0" width="282" height="82" rx="12" fill="#85613e" stroke="#85613e" stroke-opacity="0"/>
+<text class="label" x="348" y="2235.0" fill="#ffffff" font-weight="700">03  Маркетинг и</text>
+<text class="label" x="348" y="2263.0" fill="#ffffff" font-weight="700">продажи</text>
+</g>
+<g><rect x="674" y="1966.0" width="388" height="58" rx="12" fill="#e8eee6" stroke="#85613e" stroke-opacity="0.22"/>
+<text class="label" x="692" y="1995.0" fill="#243b33" font-weight="700">Каналы и результат</text>
+</g>
+<g><rect x="1124" y="1877.0" width="680" height="110" rx="12" fill="#e3efe9" stroke="#85613e" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="1906.0" fill="#243b33" font-weight="400">ИЗ ПРОЕКТА [B] · В проекте указаны сайты</text>
+<text class="label" x="1142" y="1934.0" fill="#243b33" font-weight="400">scentblend.cz и scent-blend.com, Instagram</text>
+<text class="label" x="1142" y="1962.0" fill="#243b33" font-weight="400">@scent_blend и почта cooperation@scentblend.cz.</text>
+</g>
+<g><rect x="1124" y="2003.0" width="680" height="110" rx="12" fill="#ffffff" stroke="#85613e" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="2032.0" fill="#243b33" font-weight="400">Какие каналы дают обращения и оплаченные сделки?</text>
+<text class="label" x="1142" y="2060.0" fill="#243b33" font-weight="400">Кто ведёт контент, SEO, рекламу и переписку? Каковы</text>
+<text class="label" x="1142" y="2088.0" fill="#243b33" font-weight="400">бюджет и стоимость привлечения?</text>
+</g>
+<g><rect x="674" y="2218.0" width="388" height="58" rx="12" fill="#e8eee6" stroke="#85613e" stroke-opacity="0.22"/>
+<text class="label" x="692" y="2247.0" fill="#243b33" font-weight="700">От заявки до договора</text>
+</g>
+<g><rect x="1124" y="2129.0" width="680" height="110" rx="12" fill="#e3efe9" stroke="#85613e" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="2158.0" fill="#243b33" font-weight="400">ИЗ ПРОЕКТА [B] · Сайт описывает: анализ бренда →</text>
+<text class="label" x="1142" y="2186.0" fill="#243b33" font-weight="400">предложение аромата → договор → производство,</text>
+<text class="label" x="1142" y="2214.0" fill="#243b33" font-weight="400">доставка и монтаж. Обещан ответ за 24 часа.</text>
+</g>
+<g><rect x="1124" y="2255.0" width="680" height="110" rx="12" fill="#ffffff" stroke="#85613e" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="2284.0" fill="#243b33" font-weight="400">Покажите последнюю сделку: источник, квалификация,</text>
+<text class="label" x="1142" y="2312.0" fill="#243b33" font-weight="400">пробник или пилот, смета, согласование, договор.</text>
+<text class="label" x="1142" y="2340.0" fill="#243b33" font-weight="400">Где этапы, сроки и причины отказов?</text>
+</g>
+<g><rect x="674" y="2470.0" width="388" height="58" rx="12" fill="#e8eee6" stroke="#85613e" stroke-opacity="0.22"/>
+<text class="label" x="692" y="2499.0" fill="#243b33" font-weight="700">Удержание и расширение</text>
+</g>
+<g><rect x="1124" y="2381.0" width="680" height="110" rx="12" fill="#e6edf6" stroke="#85613e" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="2410.0" fill="#243b33" font-weight="400">РАБОЧИЕ ЗАМЕТКИ [N] · ATOMFIT и RE/MAX: обсуждаются</text>
+<text class="label" x="1142" y="2438.0" fill="#243b33" font-weight="400">дополнительные точки; AURES — новые страны и саше.</text>
+<text class="label" x="1142" y="2466.0" fill="#243b33" font-weight="400">Это возможности, а не подтверждённые заказы.</text>
+</g>
+<g><rect x="1124" y="2507.0" width="680" height="110" rx="12" fill="#ffffff" stroke="#85613e" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="2536.0" fill="#243b33" font-weight="400">Кто отвечает за продление, отток и допродажу? Что</text>
+<text class="label" x="1142" y="2564.0" fill="#243b33" font-weight="400">подписано, что обсуждается? На каждую возможность:</text>
+<text class="label" x="1142" y="2592.0" fill="#243b33" font-weight="400">объём, следующий шаг, дата, ресурс и маржа.</text>
+</g>
+<g><rect x="330" y="3004.0" width="282" height="82" rx="12" fill="#705982" stroke="#705982" stroke-opacity="0"/>
+<text class="label" x="348" y="3033.0" fill="#ffffff" font-weight="700">04  Продукт и</text>
+<text class="label" x="348" y="3061.0" fill="#ffffff" font-weight="700">производство</text>
+</g>
+<g><rect x="674" y="2764.0" width="388" height="58" rx="12" fill="#e8eee6" stroke="#705982" stroke-opacity="0.22"/>
+<text class="label" x="692" y="2793.0" fill="#243b33" font-weight="700">Каталог и условия</text>
+</g>
+<g><rect x="1124" y="2675.0" width="680" height="110" rx="12" fill="#e3efe9" stroke="#705982" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="2704.0" fill="#243b33" font-weight="400">ИЗ ПРОЕКТА [B] · Ассортимент: свечи, диффузоры,</text>
+<text class="label" x="1142" y="2732.0" fill="#243b33" font-weight="400">рефилы и другие ароматические товары. Для B2B есть</text>
+<text class="label" x="1142" y="2760.0" fill="#243b33" font-weight="400">регулярная услуга и заказные продукты.</text>
+</g>
+<g><rect x="1124" y="2801.0" width="680" height="110" rx="12" fill="#ffffff" stroke="#705982" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="2830.0" fill="#243b33" font-weight="400">Что является товаром, SKU, ароматом, рецептурой,</text>
+<text class="label" x="1142" y="2858.0" fill="#243b33" font-weight="400">пакетом услуг? Что продаём, сдаём в аренду или</text>
+<text class="label" x="1142" y="2886.0" fill="#243b33" font-weight="400">передаём бесплатно? Что входит в тариф?</text>
+</g>
+<g><rect x="674" y="3016.0" width="388" height="58" rx="12" fill="#e8eee6" stroke="#705982" stroke-opacity="0.22"/>
+<text class="label" x="692" y="3045.0" fill="#243b33" font-weight="700">От брифа до партии</text>
+</g>
+<g><rect x="1124" y="2927.0" width="680" height="110" rx="12" fill="#ffffff" stroke="#705982" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="2956.0" fill="#243b33" font-weight="400">Разберите заказ под брендом клиента: бриф → образец</text>
+<text class="label" x="1142" y="2984.0" fill="#243b33" font-weight="400">→ согласование → рецептура и упаковка → закупка →</text>
+<text class="label" x="1142" y="3012.0" fill="#243b33" font-weight="400">партия → контроль → отгрузка.</text>
+</g>
+<g><rect x="1124" y="3053.0" width="680" height="110" rx="12" fill="#ffffff" stroke="#705982" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="3082.0" fill="#243b33" font-weight="400">Что делаем сами, что у поставщиков? Кто владеет</text>
+<text class="label" x="1142" y="3110.0" fill="#243b33" font-weight="400">рецептурой и версиями? Каковы минимальная партия,</text>
+<text class="label" x="1142" y="3138.0" fill="#243b33" font-weight="400">сроки, брак и запасной поставщик?</text>
+</g>
+<g><rect x="674" y="3268.0" width="388" height="58" rx="12" fill="#e8eee6" stroke="#705982" stroke-opacity="0.22"/>
+<text class="label" x="692" y="3297.0" fill="#243b33" font-weight="700">Качество и ценность</text>
+</g>
+<g><rect x="1124" y="3179.0" width="680" height="110" rx="12" fill="#ffffff" stroke="#705982" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="3208.0" fill="#243b33" font-weight="400">Где документы на продукт и партии? Кто проверяет</text>
+<text class="label" x="1142" y="3236.0" fill="#243b33" font-weight="400">качество, маркировку и подтверждения рекламных</text>
+<text class="label" x="1142" y="3264.0" fill="#243b33" font-weight="400">заявлений? Как обрабатывают претензии?</text>
+</g>
+<g><rect x="1124" y="3305.0" width="680" height="110" rx="12" fill="#ffffff" stroke="#705982" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="3334.0" fill="#243b33" font-weight="400">Как считаем полную себестоимость, маржу, повторные</text>
+<text class="label" x="1142" y="3362.0" fill="#243b33" font-weight="400">покупки и удовлетворённость? Чем подтверждаем</text>
+<text class="label" x="1142" y="3390.0" fill="#243b33" font-weight="400">эффект ароматизации у клиента?</text>
+</g>
+<g><rect x="330" y="3816.0" width="282" height="82" rx="12" fill="#477858" stroke="#477858" stroke-opacity="0"/>
+<text class="label" x="348" y="3845.0" fill="#ffffff" font-weight="700">05  Установки и</text>
+<text class="label" x="348" y="3873.0" fill="#ffffff" font-weight="700">сервис</text>
+</g>
+<g><rect x="674" y="3576.0" width="388" height="58" rx="12" fill="#e8eee6" stroke="#477858" stroke-opacity="0.22"/>
+<text class="label" x="692" y="3605.0" fill="#243b33" font-weight="700">Клиент → точка → устройство</text>
+</g>
+<g><rect x="1124" y="3473.0" width="680" height="138" rx="12" fill="#e6edf6" stroke="#477858" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="3502.0" fill="#243b33" font-weight="400">РАБОЧИЕ ЗАМЕТКИ [N] · В клиентских заметках есть</text>
+<text class="label" x="1142" y="3530.0" fill="#243b33" font-weight="400">квартальные и годовые условия ароматизации. Состав</text>
+<text class="label" x="1142" y="3558.0" fill="#243b33" font-weight="400">услуги и принадлежность оборудования часто не</text>
+<text class="label" x="1142" y="3586.0" fill="#243b33" font-weight="400">указаны.</text>
+</g>
+<g><rect x="1124" y="3627.0" width="680" height="110" rx="12" fill="#ffffff" stroke="#477858" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="3656.0" fill="#243b33" font-weight="400">Покажите одну действующую точку: договор, адрес,</text>
+<text class="label" x="1142" y="3684.0" fill="#243b33" font-weight="400">ответственный, устройства, ароматы, настройки, дата</text>
+<text class="label" x="1142" y="3712.0" fill="#243b33" font-weight="400">установки и акт приёмки. Кто владелец оборудования?</text>
+</g>
+<g><rect x="674" y="3842.0" width="388" height="58" rx="12" fill="#e8eee6" stroke="#477858" stroke-opacity="0.22"/>
+<text class="label" x="692" y="3871.0" fill="#243b33" font-weight="700">Расходники и обслуживание</text>
+</g>
+<g><rect x="1124" y="3753.0" width="680" height="110" rx="12" fill="#ffffff" stroke="#477858" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="3782.0" fill="#243b33" font-weight="400">Что запускает пополнение или визит: календарь,</text>
+<text class="label" x="1142" y="3810.0" fill="#243b33" font-weight="400">расход, сигнал устройства, обращение? Кто планирует</text>
+<text class="label" x="1142" y="3838.0" fill="#243b33" font-weight="400">маршрут и подтверждает выполнение?</text>
+</g>
+<g><rect x="1124" y="3879.0" width="680" height="110" rx="12" fill="#ffffff" stroke="#477858" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="3908.0" fill="#243b33" font-weight="400">Где остатки, партии и сроки хранения? Как</text>
+<text class="label" x="1142" y="3936.0" fill="#243b33" font-weight="400">резервируются рефилы? Что делаем при дефиците,</text>
+<text class="label" x="1142" y="3964.0" fill="#243b33" font-weight="400">поломке, переезде или расторжении договора?</text>
+</g>
+<g><rect x="674" y="4082.0" width="388" height="82" rx="12" fill="#e8eee6" stroke="#477858" stroke-opacity="0.22"/>
+<text class="label" x="692" y="4111.0" fill="#243b33" font-weight="700">Поддержка и стоимость</text>
+<text class="label" x="692" y="4139.0" fill="#243b33" font-weight="700">сервиса</text>
+</g>
+<g><rect x="1124" y="4005.0" width="680" height="110" rx="12" fill="#ffffff" stroke="#477858" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="4034.0" fill="#243b33" font-weight="400">Проследите жалобу: канал → регистрация → приоритет</text>
+<text class="label" x="1142" y="4062.0" fill="#243b33" font-weight="400">→ исполнитель → решение → подтверждение клиента.</text>
+<text class="label" x="1142" y="4090.0" fill="#243b33" font-weight="400">Каковы сроки и повторные обращения?</text>
+</g>
+<g><rect x="1124" y="4131.0" width="680" height="110" rx="12" fill="#ffffff" stroke="#477858" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="4160.0" fill="#243b33" font-weight="400">Сколько стоит обслуживать точку с учётом дороги,</text>
+<text class="label" x="1142" y="4188.0" fill="#243b33" font-weight="400">времени, расходников и замен? Как меняется</text>
+<text class="label" x="1142" y="4216.0" fill="#243b33" font-weight="400">экономика при расширении сети или страны?</text>
+</g>
+<g><rect x="330" y="4642.0" width="282" height="82" rx="12" fill="#93624b" stroke="#93624b" stroke-opacity="0"/>
+<text class="label" x="348" y="4671.0" fill="#ffffff" font-weight="700">06  Проекты и</text>
+<text class="label" x="348" y="4699.0" fill="#ffffff" font-weight="700">каналы сбыта</text>
+</g>
+<g><rect x="674" y="4388.0" width="388" height="58" rx="12" fill="#e8eee6" stroke="#93624b" stroke-opacity="0.22"/>
+<text class="label" x="692" y="4417.0" fill="#243b33" font-weight="700">Мероприятия и сезонность</text>
+</g>
+<g><rect x="1124" y="4299.0" width="680" height="110" rx="12" fill="#fff0d8" stroke="#93624b" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="4328.0" fill="#243b33" font-weight="400">ПУБЛИЧНОЕ ЗАЯВЛЕНИЕ [L] · LinkedIn описывает</text>
+<text class="label" x="1142" y="4356.0" fill="#243b33" font-weight="400">аромабар, мастер-классы и оформление мероприятий;</text>
+<text class="label" x="1142" y="4384.0" fill="#243b33" font-weight="400">также продвигает корпоративные подарки.</text>
+</g>
+<g><rect x="1124" y="4425.0" width="680" height="110" rx="12" fill="#ffffff" stroke="#93624b" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="4454.0" fill="#243b33" font-weight="400">Какие форматы уже продаются? Как ведём мероприятие:</text>
+<text class="label" x="1142" y="4482.0" fill="#243b33" font-weight="400">бриф, дата, площадка, команда, монтаж, демонтаж?</text>
+<text class="label" x="1142" y="4510.0" fill="#243b33" font-weight="400">Как планируем сезонный пик и срочные заказы?</text>
+</g>
+<g><rect x="674" y="4654.0" width="388" height="58" rx="12" fill="#e8eee6" stroke="#93624b" stroke-opacity="0.22"/>
+<text class="label" x="692" y="4683.0" fill="#243b33" font-weight="700">Интернет-магазин</text>
+</g>
+<g><rect x="1124" y="4551.0" width="680" height="138" rx="12" fill="#e3efe9" stroke="#93624b" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="4580.0" fill="#243b33" font-weight="400">ИЗ ПРОЕКТА [B/R] · B2C-магазин: оплата через</text>
+<text class="label" x="1142" y="4608.0" fill="#243b33" font-weight="400">Stripe; заявлена доставка в Чехию, ЕС и другие</text>
+<text class="label" x="1142" y="4636.0" fill="#243b33" font-weight="400">страны. В текущем прогнозе нет отдельного потока</text>
+<text class="label" x="1142" y="4664.0" fill="#243b33" font-weight="400">магазина.</text>
+</g>
+<g><rect x="1124" y="4705.0" width="680" height="110" rx="12" fill="#ffffff" stroke="#93624b" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="4734.0" fill="#243b33" font-weight="400">Покажите заказ: оплата → резерв → сборка → отправка</text>
+<text class="label" x="1142" y="4762.0" fill="#243b33" font-weight="400">→ доставка → возврат. Где данные покупателя,</text>
+<text class="label" x="1142" y="4790.0" fill="#243b33" font-weight="400">комиссии, возвраты, остатки и выплата Stripe?</text>
+</g>
+<g><rect x="674" y="4920.0" width="388" height="58" rx="12" fill="#e8eee6" stroke="#93624b" stroke-opacity="0.22"/>
+<text class="label" x="692" y="4949.0" fill="#243b33" font-weight="700">Дистрибуция и партнёры</text>
+</g>
+<g><rect x="1124" y="4831.0" width="680" height="110" rx="12" fill="#ffffff" stroke="#93624b" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="4860.0" fill="#243b33" font-weight="400">Какие магазины, сети и маркетплейсы реально продают</text>
+<text class="label" x="1142" y="4888.0" fill="#243b33" font-weight="400">продукцию? Кто владеет запасом и данными клиента?</text>
+<text class="label" x="1142" y="4916.0" fill="#243b33" font-weight="400">Каковы скидки, отсрочки и возвраты?</text>
+</g>
+<g><rect x="1124" y="4957.0" width="680" height="110" rx="12" fill="#ffffff" stroke="#93624b" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="4986.0" fill="#243b33" font-weight="400">Как разделяем прямые продажи, партнёров и</text>
+<text class="label" x="1142" y="5014.0" fill="#243b33" font-weight="400">собственный магазин? Где правила цен,</text>
+<text class="label" x="1142" y="5042.0" fill="#243b33" font-weight="400">эксклюзивности и передачи обращений между каналами?</text>
+</g>
+<g><rect x="330" y="5510.0" width="282" height="82" rx="12" fill="#4c677b" stroke="#4c677b" stroke-opacity="0"/>
+<text class="label" x="348" y="5539.0" fill="#ffffff" font-weight="700">07  Деньги и</text>
+<text class="label" x="348" y="5567.0" fill="#ffffff" font-weight="700">достоверность</text>
+</g>
+<g><rect x="674" y="5228.0" width="388" height="58" rx="12" fill="#e8eee6" stroke="#4c677b" stroke-opacity="0.22"/>
+<text class="label" x="692" y="5257.0" fill="#243b33" font-weight="700">Договор → счёт → платёж</text>
+</g>
+<g><rect x="1124" y="5125.0" width="680" height="138" rx="12" fill="#e6edf6" stroke="#4c677b" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="5154.0" fill="#243b33" font-weight="400">РАБОЧИЕ ЗАМЕТКИ [N/R] · В заметках есть условия в</text>
+<text class="label" x="1142" y="5182.0" fill="#243b33" font-weight="400">CZK и EUR, за квартал и за год; НДС часто не</text>
+<text class="label" x="1142" y="5210.0" fill="#243b33" font-weight="400">уточнён. Банковский платёж не определяет период</text>
+<text class="label" x="1142" y="5238.0" fill="#243b33" font-weight="400">оказания услуги.</text>
+</g>
+<g><rect x="1124" y="5279.0" width="680" height="110" rx="12" fill="#ffffff" stroke="#4c677b" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="5308.0" fill="#243b33" font-weight="400">Кто выставляет счета и контролирует оплату? Как</text>
+<text class="label" x="1142" y="5336.0" fill="#243b33" font-weight="400">связаны договор, точка, период, предоплата,</text>
+<text class="label" x="1142" y="5364.0" fill="#243b33" font-weight="400">частичная оплата, возврат и задолженность?</text>
+</g>
+<g><rect x="674" y="5508.0" width="388" height="58" rx="12" fill="#e8eee6" stroke="#4c677b" stroke-opacity="0.22"/>
+<text class="label" x="692" y="5537.0" fill="#243b33" font-weight="700">Маржа и денежный поток</text>
+</g>
+<g><rect x="1124" y="5405.0" width="680" height="110" rx="12" fill="#e3efe9" stroke="#4c677b" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="5434.0" fill="#243b33" font-weight="400">ИЗ ПРОЕКТА [P] · Отчёт P&amp;L в проекте</text>
+<text class="label" x="1142" y="5462.0" fill="#243b33" font-weight="400">предварительный: классификация части операций и</text>
+<text class="label" x="1142" y="5490.0" fill="#243b33" font-weight="400">себестоимость не завершены; прибыль не рассчитана.</text>
+</g>
+<g><rect x="1124" y="5531.0" width="680" height="138" rx="12" fill="#ffffff" stroke="#4c677b" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="5560.0" fill="#243b33" font-weight="400">Какие данные нужны для прибыли по направлениям и</text>
+<text class="label" x="1142" y="5588.0" fill="#243b33" font-weight="400">клиентам? Покажите счета, склад, зарплаты,</text>
+<text class="label" x="1142" y="5616.0" fill="#243b33" font-weight="400">обязательства и другие счета. Где риск кассового</text>
+<text class="label" x="1142" y="5644.0" fill="#243b33" font-weight="400">разрыва?</text>
+</g>
+<g><rect x="674" y="5802.0" width="388" height="58" rx="12" fill="#e8eee6" stroke="#4c677b" stroke-opacity="0.22"/>
+<text class="label" x="692" y="5831.0" fill="#243b33" font-weight="700">Сверка и прогноз</text>
+</g>
+<g><rect x="1124" y="5685.0" width="680" height="138" rx="12" fill="#e6edf6" stroke="#4c677b" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="5714.0" fill="#243b33" font-weight="400">РАБОЧИЕ ЗАМЕТКИ [N/R] · Нужно уточнить</text>
+<text class="label" x="1142" y="5742.0" fill="#243b33" font-weight="400">AURES/Mototechna и Clever/CodeClever. Модель</text>
+<text class="label" x="1142" y="5770.0" fill="#243b33" font-weight="400">расширения из заметок — сценарий; поступления не</text>
+<text class="label" x="1142" y="5798.0" fill="#243b33" font-weight="400">подтверждают новые договоры.</text>
+</g>
+<g><rect x="1124" y="5839.0" width="680" height="138" rx="12" fill="#ffffff" stroke="#4c677b" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="5868.0" fill="#243b33" font-weight="400">Какие доходы договорные, какие разовые, какие</text>
+<text class="label" x="1142" y="5896.0" fill="#243b33" font-weight="400">гипотетические? Какова зависимость от крупнейших</text>
+<text class="label" x="1142" y="5924.0" fill="#243b33" font-weight="400">клиентов? Проверим периоды, НДС и источники</text>
+<text class="label" x="1142" y="5952.0" fill="#243b33" font-weight="400">допущений.</text>
+</g>
+<g><rect x="330" y="6376.0" width="282" height="58" rx="12" fill="#245749" stroke="#245749" stroke-opacity="0"/>
+<text class="label" x="348" y="6405.0" fill="#ffffff" font-weight="700">08  Данные и итоги</text>
+</g>
+<g><rect x="674" y="6124.0" width="388" height="58" rx="12" fill="#e8eee6" stroke="#245749" stroke-opacity="0.22"/>
+<text class="label" x="692" y="6153.0" fill="#243b33" font-weight="700">Сущности и связи</text>
+</g>
+<g><rect x="1124" y="6035.0" width="680" height="110" rx="12" fill="#ffffff" stroke="#245749" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="6064.0" fill="#243b33" font-weight="400">Согласуем понятия: юрлицо, бренд, контакт, точка,</text>
+<text class="label" x="1142" y="6092.0" fill="#243b33" font-weight="400">договор, устройство, аромат, SKU, партия, заказ,</text>
+<text class="label" x="1142" y="6120.0" fill="#243b33" font-weight="400">визит, счёт, платёж, сотрудник.</text>
+</g>
+<g><rect x="1124" y="6161.0" width="680" height="110" rx="12" fill="#ffffff" stroke="#245749" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="6190.0" fill="#243b33" font-weight="400">Для каждой сущности: определение, пример, ID, поля,</text>
+<text class="label" x="1142" y="6218.0" fill="#243b33" font-weight="400">статусы, владелец. Какие связи «один ко многим»?</text>
+<text class="label" x="1142" y="6246.0" fill="#243b33" font-weight="400">Как хранится история перемещений и изменений?</text>
+</g>
+<g><rect x="674" y="6376.0" width="388" height="58" rx="12" fill="#e8eee6" stroke="#245749" stroke-opacity="0.22"/>
+<text class="label" x="692" y="6405.0" fill="#243b33" font-weight="700">Процессы и системы</text>
+</g>
+<g><rect x="1124" y="6287.0" width="680" height="110" rx="12" fill="#ffffff" stroke="#245749" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="6316.0" fill="#243b33" font-weight="400">Для процесса: событие запуска → шаги →</text>
+<text class="label" x="1142" y="6344.0" fill="#243b33" font-weight="400">ответственный → передача → результат. Какие</text>
+<text class="label" x="1142" y="6372.0" fill="#243b33" font-weight="400">правила, исключения, задержки и показатели?</text>
+</g>
+<g><rect x="1124" y="6413.0" width="680" height="110" rx="12" fill="#ffffff" stroke="#245749" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="6442.0" fill="#243b33" font-weight="400">Какие системы реально используются? Где главная</text>
+<text class="label" x="1142" y="6470.0" fill="#243b33" font-weight="400">запись, дубли и ручной перенос? Кто имеет доступ,</text>
+<text class="label" x="1142" y="6498.0" fill="#243b33" font-weight="400">исправляет ошибки и восстанавливает данные?</text>
+</g>
+<g><rect x="674" y="6628.0" width="388" height="58" rx="12" fill="#e8eee6" stroke="#245749" stroke-opacity="0.22"/>
+<text class="label" x="692" y="6657.0" fill="#243b33" font-weight="700">Результат сессии</text>
+</g>
+<g><rect x="1124" y="6539.0" width="680" height="110" rx="12" fill="#ffffff" stroke="#245749" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="6568.0" fill="#243b33" font-weight="400">Выберем три приоритета по влиянию, усилиям и</text>
+<text class="label" x="1142" y="6596.0" fill="#243b33" font-weight="400">зависимости от других задач. Для каждого: действие,</text>
+<text class="label" x="1142" y="6624.0" fill="#243b33" font-weight="400">владелец, срок и критерий результата.</text>
+</g>
+<g><rect x="1124" y="6665.0" width="680" height="110" rx="12" fill="#ffffff" stroke="#245749" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="6694.0" fill="#243b33" font-weight="400">Отделим факт от гипотезы и неизвестного. Что</text>
+<text class="label" x="1142" y="6722.0" fill="#243b33" font-weight="400">подтвердили документом? Какой пример или файл нужен</text>
+<text class="label" x="1142" y="6750.0" fill="#243b33" font-weight="400">дальше и кто его предоставит?</text>
+</g>
+<path d="M48 6851 H1804" stroke="#c8d2c8"/>
+<text x="48" y="6890" font-size="17" fill="#596b62">Источники B / N / R / P / L и оговорки: session-guide-ru.md. Исходные сведения актуализировать на встрече.</text>
+<text x="48" y="6921" font-size="17" fill="#596b62">Scent Blend · Внутренняя рабочая карта · Сессия 30 октября 2026</text>
+</svg>

@@ -1,0 +1,402 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1636" height="6522" viewBox="0 0 1636 6522" role="img" aria-labelledby="title desc">
+<title id="title">Scent Blend / Business discovery</title><desc id="desc">An interview map for discovering people, processes, business objects and strategic constraints. All labels are editable vector text.</desc>
+<style>text{font-family:Arial,Helvetica,sans-serif} .label{font-size:21px} .edge{fill:none;stroke-width:2;stroke-opacity:.42}</style>
+<rect width="1636" height="6522" fill="#f7f8f3"/>
+<path d="M48 54 H136" stroke="#245749" stroke-width="6"/>
+<text x="48" y="101" font-size="40" font-weight="700" fill="#183d34">Scent Blend / Business discovery</text>
+<text x="48" y="143" font-size="21" fill="#51635c">An interview map for discovering people, processes, business objects and strategic constraints.</text>
+<rect x="48" y="174" width="1540" height="54" rx="12" fill="#e7ede4"/>
+<text x="68" y="208" font-size="19" fill="#294c40">For each answer: ask for a real example → identify the owner → inspect the record → capture exceptions.</text>
+<path class="edge" stroke="#245749" d="M274 3311.0 C302.0 3311.0 302.0 602.0 330 602.0"/>
+<path class="edge" stroke="#356d80" d="M274 3311.0 C302.0 3311.0 302.0 1316.0 330 1316.0"/>
+<path class="edge" stroke="#85613e" d="M274 3311.0 C302.0 3311.0 302.0 2121.0 330 2121.0"/>
+<path class="edge" stroke="#705982" d="M274 3311.0 C302.0 3311.0 302.0 3045.0 330 3045.0"/>
+<path class="edge" stroke="#477858" d="M274 3311.0 C302.0 3311.0 302.0 3997.0 330 3997.0"/>
+<path class="edge" stroke="#93624b" d="M274 3311.0 C302.0 3311.0 302.0 4935.0 330 4935.0"/>
+<path class="edge" stroke="#4c677b" d="M274 3311.0 C302.0 3311.0 302.0 5887.0 330 5887.0"/>
+<path class="edge" stroke="#245749" d="M612 602.0 C643.0 602.0 643.0 413.0 674 413.0"/>
+<path class="edge" stroke="#245749" d="M612 602.0 C643.0 602.0 643.0 679.0 674 679.0"/>
+<path class="edge" stroke="#245749" d="M612 602.0 C643.0 602.0 643.0 868.0 674 868.0"/>
+<path class="edge" stroke="#245749" d="M1062 413.0 C1093.0 413.0 1093.0 350.0 1124 350.0"/>
+<path class="edge" stroke="#245749" d="M1062 413.0 C1093.0 413.0 1093.0 490.0 1124 490.0"/>
+<path class="edge" stroke="#245749" d="M1062 679.0 C1093.0 679.0 1093.0 616.0 1124 616.0"/>
+<path class="edge" stroke="#245749" d="M1062 679.0 C1093.0 679.0 1093.0 742.0 1124 742.0"/>
+<path class="edge" stroke="#245749" d="M1062 868.0 C1093.0 868.0 1093.0 868.0 1124 868.0"/>
+<path class="edge" stroke="#356d80" d="M612 1316.0 C643.0 1316.0 643.0 1113.0 674 1113.0"/>
+<path class="edge" stroke="#356d80" d="M612 1316.0 C643.0 1316.0 643.0 1393.0 674 1393.0"/>
+<path class="edge" stroke="#356d80" d="M612 1316.0 C643.0 1316.0 643.0 1596.0 674 1596.0"/>
+<path class="edge" stroke="#356d80" d="M1062 1113.0 C1093.0 1113.0 1093.0 1050.0 1124 1050.0"/>
+<path class="edge" stroke="#356d80" d="M1062 1113.0 C1093.0 1113.0 1093.0 1190.0 1124 1190.0"/>
+<path class="edge" stroke="#356d80" d="M1062 1393.0 C1093.0 1393.0 1093.0 1330.0 1124 1330.0"/>
+<path class="edge" stroke="#356d80" d="M1062 1393.0 C1093.0 1393.0 1093.0 1470.0 1124 1470.0"/>
+<path class="edge" stroke="#356d80" d="M1062 1596.0 C1093.0 1596.0 1093.0 1596.0 1124 1596.0"/>
+<path class="edge" stroke="#85613e" d="M612 2121.0 C643.0 2121.0 643.0 1841.0 674 1841.0"/>
+<path class="edge" stroke="#85613e" d="M612 2121.0 C643.0 2121.0 643.0 2135.0 674 2135.0"/>
+<path class="edge" stroke="#85613e" d="M612 2121.0 C643.0 2121.0 643.0 2415.0 674 2415.0"/>
+<path class="edge" stroke="#85613e" d="M1062 1841.0 C1093.0 1841.0 1093.0 1764.0 1124 1764.0"/>
+<path class="edge" stroke="#85613e" d="M1062 1841.0 C1093.0 1841.0 1093.0 1904.0 1124 1904.0"/>
+<path class="edge" stroke="#85613e" d="M1062 2135.0 C1093.0 2135.0 1093.0 2058.0 1124 2058.0"/>
+<path class="edge" stroke="#85613e" d="M1062 2135.0 C1093.0 2135.0 1093.0 2212.0 1124 2212.0"/>
+<path class="edge" stroke="#85613e" d="M1062 2415.0 C1093.0 2415.0 1093.0 2352.0 1124 2352.0"/>
+<path class="edge" stroke="#85613e" d="M1062 2415.0 C1093.0 2415.0 1093.0 2478.0 1124 2478.0"/>
+<path class="edge" stroke="#705982" d="M612 3045.0 C643.0 3045.0 643.0 2737.0 674 2737.0"/>
+<path class="edge" stroke="#705982" d="M612 3045.0 C643.0 3045.0 643.0 3045.0 674 3045.0"/>
+<path class="edge" stroke="#705982" d="M612 3045.0 C643.0 3045.0 643.0 3353.0 674 3353.0"/>
+<path class="edge" stroke="#705982" d="M1062 2737.0 C1093.0 2737.0 1093.0 2660.0 1124 2660.0"/>
+<path class="edge" stroke="#705982" d="M1062 2737.0 C1093.0 2737.0 1093.0 2814.0 1124 2814.0"/>
+<path class="edge" stroke="#705982" d="M1062 3045.0 C1093.0 3045.0 1093.0 2968.0 1124 2968.0"/>
+<path class="edge" stroke="#705982" d="M1062 3045.0 C1093.0 3045.0 1093.0 3122.0 1124 3122.0"/>
+<path class="edge" stroke="#705982" d="M1062 3353.0 C1093.0 3353.0 1093.0 3276.0 1124 3276.0"/>
+<path class="edge" stroke="#705982" d="M1062 3353.0 C1093.0 3353.0 1093.0 3430.0 1124 3430.0"/>
+<path class="edge" stroke="#477858" d="M612 3997.0 C643.0 3997.0 643.0 3703.0 674 3703.0"/>
+<path class="edge" stroke="#477858" d="M612 3997.0 C643.0 3997.0 643.0 3997.0 674 3997.0"/>
+<path class="edge" stroke="#477858" d="M612 3997.0 C643.0 3997.0 643.0 4291.0 674 4291.0"/>
+<path class="edge" stroke="#477858" d="M1062 3703.0 C1093.0 3703.0 1093.0 3626.0 1124 3626.0"/>
+<path class="edge" stroke="#477858" d="M1062 3703.0 C1093.0 3703.0 1093.0 3780.0 1124 3780.0"/>
+<path class="edge" stroke="#477858" d="M1062 3997.0 C1093.0 3997.0 1093.0 3934.0 1124 3934.0"/>
+<path class="edge" stroke="#477858" d="M1062 3997.0 C1093.0 3997.0 1093.0 4074.0 1124 4074.0"/>
+<path class="edge" stroke="#477858" d="M1062 4291.0 C1093.0 4291.0 1093.0 4214.0 1124 4214.0"/>
+<path class="edge" stroke="#477858" d="M1062 4291.0 C1093.0 4291.0 1093.0 4368.0 1124 4368.0"/>
+<path class="edge" stroke="#93624b" d="M612 4935.0 C643.0 4935.0 643.0 4627.0 674 4627.0"/>
+<path class="edge" stroke="#93624b" d="M612 4935.0 C643.0 4935.0 643.0 4921.0 674 4921.0"/>
+<path class="edge" stroke="#93624b" d="M612 4935.0 C643.0 4935.0 643.0 5229.0 674 5229.0"/>
+<path class="edge" stroke="#93624b" d="M1062 4627.0 C1093.0 4627.0 1093.0 4564.0 1124 4564.0"/>
+<path class="edge" stroke="#93624b" d="M1062 4627.0 C1093.0 4627.0 1093.0 4704.0 1124 4704.0"/>
+<path class="edge" stroke="#93624b" d="M1062 4921.0 C1093.0 4921.0 1093.0 4844.0 1124 4844.0"/>
+<path class="edge" stroke="#93624b" d="M1062 4921.0 C1093.0 4921.0 1093.0 4998.0 1124 4998.0"/>
+<path class="edge" stroke="#93624b" d="M1062 5229.0 C1093.0 5229.0 1093.0 5152.0 1124 5152.0"/>
+<path class="edge" stroke="#93624b" d="M1062 5229.0 C1093.0 5229.0 1093.0 5306.0 1124 5306.0"/>
+<path class="edge" stroke="#4c677b" d="M612 5887.0 C643.0 5887.0 643.0 5579.0 674 5579.0"/>
+<path class="edge" stroke="#4c677b" d="M612 5887.0 C643.0 5887.0 643.0 5887.0 674 5887.0"/>
+<path class="edge" stroke="#4c677b" d="M612 5887.0 C643.0 5887.0 643.0 6195.0 674 6195.0"/>
+<path class="edge" stroke="#4c677b" d="M1062 5579.0 C1093.0 5579.0 1093.0 5502.0 1124 5502.0"/>
+<path class="edge" stroke="#4c677b" d="M1062 5579.0 C1093.0 5579.0 1093.0 5656.0 1124 5656.0"/>
+<path class="edge" stroke="#4c677b" d="M1062 5887.0 C1093.0 5887.0 1093.0 5810.0 1124 5810.0"/>
+<path class="edge" stroke="#4c677b" d="M1062 5887.0 C1093.0 5887.0 1093.0 5964.0 1124 5964.0"/>
+<path class="edge" stroke="#4c677b" d="M1062 6195.0 C1093.0 6195.0 1093.0 6118.0 1124 6118.0"/>
+<path class="edge" stroke="#4c677b" d="M1062 6195.0 C1093.0 6195.0 1093.0 6272.0 1124 6272.0"/>
+<g><rect x="48" y="3282.0" width="226" height="58" rx="12" fill="#245749" stroke="#245749" stroke-opacity="0"/>
+<text class="label" x="66" y="3311.0" fill="#ffffff" font-weight="700">Scent Blend</text>
+</g>
+<g><rect x="330" y="561.0" width="282" height="82" rx="12" fill="#245749" stroke="#245749" stroke-opacity="0"/>
+<text class="label" x="348" y="590.0" fill="#ffffff" font-weight="700">01  Direction &amp;</text>
+<text class="label" x="348" y="618.0" fill="#ffffff" font-weight="700">model</text>
+</g>
+<g><rect x="674" y="384.0" width="388" height="58" rx="12" fill="#e8eee6" stroke="#245749" stroke-opacity="0.22"/>
+<text class="label" x="692" y="413.0" fill="#243b33" font-weight="700">Business lines &amp; outcomes</text>
+</g>
+<g><rect x="1124" y="281.0" width="464" height="138" rx="12" fill="#ffffff" stroke="#245749" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="310.0" fill="#243b33" font-weight="400">Which lines are active: space</text>
+<text class="label" x="1142" y="338.0" fill="#243b33" font-weight="400">scenting, private label,</text>
+<text class="label" x="1142" y="366.0" fill="#243b33" font-weight="400">distribution, brand experiences,</text>
+<text class="label" x="1142" y="394.0" fill="#243b33" font-weight="400">B2C shop?</text>
+</g>
+<g><rect x="1124" y="435.0" width="464" height="110" rx="12" fill="#ffffff" stroke="#245749" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="464.0" fill="#243b33" font-weight="400">What should change in 12 months?</text>
+<text class="label" x="1142" y="492.0" fill="#243b33" font-weight="400">Which three outcomes define</text>
+<text class="label" x="1142" y="520.0" fill="#243b33" font-weight="400">success, and from what baseline?</text>
+</g>
+<g><rect x="674" y="650.0" width="388" height="58" rx="12" fill="#e8eee6" stroke="#245749" stroke-opacity="0.22"/>
+<text class="label" x="692" y="679.0" fill="#243b33" font-weight="700">Customers &amp; value</text>
+</g>
+<g><rect x="1124" y="561.0" width="464" height="110" rx="12" fill="#ffffff" stroke="#245749" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="590.0" fill="#243b33" font-weight="400">Who buys, who pays, and who uses</text>
+<text class="label" x="1142" y="618.0" fill="#243b33" font-weight="400">each offer? What problem do they</text>
+<text class="label" x="1142" y="646.0" fill="#243b33" font-weight="400">pay us to solve?</text>
+</g>
+<g><rect x="1124" y="687.0" width="464" height="110" rx="12" fill="#ffffff" stroke="#245749" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="716.0" fill="#243b33" font-weight="400">What counts as a customer: legal</text>
+<text class="label" x="1142" y="744.0" fill="#243b33" font-weight="400">entity, brand, group, contact or</text>
+<text class="label" x="1142" y="772.0" fill="#243b33" font-weight="400">site? How are these linked?</text>
+</g>
+<g><rect x="674" y="839.0" width="388" height="58" rx="12" fill="#e8eee6" stroke="#245749" stroke-opacity="0.22"/>
+<text class="label" x="692" y="868.0" fill="#243b33" font-weight="700">Strategic choices</text>
+</g>
+<g><rect x="1124" y="813.0" width="464" height="110" rx="12" fill="#ffffff" stroke="#245749" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="842.0" fill="#243b33" font-weight="400">Which segments and offers deserve</text>
+<text class="label" x="1142" y="870.0" fill="#243b33" font-weight="400">focus? What will we stop, and what</text>
+<text class="label" x="1142" y="898.0" fill="#243b33" font-weight="400">constraint limits growth?</text>
+</g>
+<g><rect x="330" y="1275.0" width="282" height="82" rx="12" fill="#356d80" stroke="#356d80" stroke-opacity="0"/>
+<text class="label" x="348" y="1304.0" fill="#ffffff" font-weight="700">02  People &amp;</text>
+<text class="label" x="348" y="1332.0" fill="#ffffff" font-weight="700">decisions</text>
+</g>
+<g><rect x="674" y="1084.0" width="388" height="58" rx="12" fill="#e8eee6" stroke="#356d80" stroke-opacity="0.22"/>
+<text class="label" x="692" y="1113.0" fill="#243b33" font-weight="700">Roles &amp; ownership</text>
+</g>
+<g><rect x="1124" y="981.0" width="464" height="138" rx="12" fill="#ffffff" stroke="#356d80" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="1010.0" fill="#243b33" font-weight="400">Who owns sales, scent design,</text>
+<text class="label" x="1142" y="1038.0" fill="#243b33" font-weight="400">sourcing, installation, service,</text>
+<text class="label" x="1142" y="1066.0" fill="#243b33" font-weight="400">finance and the shop? Employees or</text>
+<text class="label" x="1142" y="1094.0" fill="#243b33" font-weight="400">partners?</text>
+</g>
+<g><rect x="1124" y="1135.0" width="464" height="110" rx="12" fill="#ffffff" stroke="#356d80" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="1164.0" fill="#243b33" font-weight="400">Where does the owner spend time?</text>
+<text class="label" x="1142" y="1192.0" fill="#243b33" font-weight="400">Which decisions require approval,</text>
+<text class="label" x="1142" y="1220.0" fill="#243b33" font-weight="400">and who is the backup?</text>
+</g>
+<g><rect x="674" y="1364.0" width="388" height="58" rx="12" fill="#e8eee6" stroke="#356d80" stroke-opacity="0.22"/>
+<text class="label" x="692" y="1393.0" fill="#243b33" font-weight="700">Capacity &amp; knowledge</text>
+</g>
+<g><rect x="1124" y="1261.0" width="464" height="138" rx="12" fill="#ffffff" stroke="#356d80" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="1290.0" fill="#243b33" font-weight="400">What workload can each role</text>
+<text class="label" x="1142" y="1318.0" fill="#243b33" font-weight="400">handle? Which skills, incentives</text>
+<text class="label" x="1142" y="1346.0" fill="#243b33" font-weight="400">or missing instructions create</text>
+<text class="label" x="1142" y="1374.0" fill="#243b33" font-weight="400">bottlenecks?</text>
+</g>
+<g><rect x="1124" y="1415.0" width="464" height="110" rx="12" fill="#ffffff" stroke="#356d80" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="1444.0" fill="#243b33" font-weight="400">How are people hired and trained?</text>
+<text class="label" x="1142" y="1472.0" fill="#243b33" font-weight="400">Which questions repeatedly come</text>
+<text class="label" x="1142" y="1500.0" fill="#243b33" font-weight="400">back to the owner?</text>
+</g>
+<g><rect x="674" y="1567.0" width="388" height="58" rx="12" fill="#e8eee6" stroke="#356d80" stroke-opacity="0.22"/>
+<text class="label" x="692" y="1596.0" fill="#243b33" font-weight="700">Handoffs &amp; accountability</text>
+</g>
+<g><rect x="1124" y="1541.0" width="464" height="110" rx="12" fill="#ffffff" stroke="#356d80" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="1570.0" fill="#243b33" font-weight="400">At each handoff, who accepts the</text>
+<text class="label" x="1142" y="1598.0" fill="#243b33" font-weight="400">work, what must be complete, and</text>
+<text class="label" x="1142" y="1626.0" fill="#243b33" font-weight="400">where is responsibility recorded?</text>
+</g>
+<g><rect x="330" y="2092.0" width="282" height="58" rx="12" fill="#85613e" stroke="#85613e" stroke-opacity="0"/>
+<text class="label" x="348" y="2121.0" fill="#ffffff" font-weight="700">03  Demand &amp; sales</text>
+</g>
+<g><rect x="674" y="1812.0" width="388" height="58" rx="12" fill="#e8eee6" stroke="#85613e" stroke-opacity="0.22"/>
+<text class="label" x="692" y="1841.0" fill="#243b33" font-weight="700">Acquisition &amp; qualification</text>
+</g>
+<g><rect x="1124" y="1709.0" width="464" height="110" rx="12" fill="#ffffff" stroke="#85613e" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="1738.0" fill="#243b33" font-weight="400">Which channels bring qualified B2B</text>
+<text class="label" x="1142" y="1766.0" fill="#243b33" font-weight="400">enquiries and B2C orders? Who</text>
+<text class="label" x="1142" y="1794.0" fill="#243b33" font-weight="400">handles messages and follow-ups?</text>
+</g>
+<g><rect x="1124" y="1835.0" width="464" height="138" rx="12" fill="#ffffff" stroke="#85613e" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="1864.0" fill="#243b33" font-weight="400">What qualifies a lead: segment,</text>
+<text class="label" x="1142" y="1892.0" fill="#243b33" font-weight="400">site size, need, budget, decision-</text>
+<text class="label" x="1142" y="1920.0" fill="#243b33" font-weight="400">maker or timing? Where is it</text>
+<text class="label" x="1142" y="1948.0" fill="#243b33" font-weight="400">recorded?</text>
+</g>
+<g><rect x="674" y="2106.0" width="388" height="58" rx="12" fill="#e8eee6" stroke="#85613e" stroke-opacity="0.22"/>
+<text class="label" x="692" y="2135.0" fill="#243b33" font-weight="700">Enquiry → agreement</text>
+</g>
+<g><rect x="1124" y="1989.0" width="464" height="138" rx="12" fill="#ffffff" stroke="#85613e" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="2018.0" fill="#243b33" font-weight="400">Walk through a recent sale:</text>
+<text class="label" x="1142" y="2046.0" fill="#243b33" font-weight="400">enquiry, analysis, scent proposal,</text>
+<text class="label" x="1142" y="2074.0" fill="#243b33" font-weight="400">trial if any, quote and signed</text>
+<text class="label" x="1142" y="2102.0" fill="#243b33" font-weight="400">agreement.</text>
+</g>
+<g><rect x="1124" y="2143.0" width="464" height="138" rx="12" fill="#ffffff" stroke="#85613e" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="2172.0" fill="#243b33" font-weight="400">Who owns each stage? What are</text>
+<text class="label" x="1142" y="2200.0" fill="#243b33" font-weight="400">conversion, elapsed time and loss</text>
+<text class="label" x="1142" y="2228.0" fill="#243b33" font-weight="400">reasons? Is the 24-hour reply</text>
+<text class="label" x="1142" y="2256.0" fill="#243b33" font-weight="400">promise met?</text>
+</g>
+<g><rect x="674" y="2386.0" width="388" height="58" rx="12" fill="#e8eee6" stroke="#85613e" stroke-opacity="0.22"/>
+<text class="label" x="692" y="2415.0" fill="#243b33" font-weight="700">Renewal &amp; expansion</text>
+</g>
+<g><rect x="1124" y="2297.0" width="464" height="110" rx="12" fill="#ffffff" stroke="#85613e" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="2326.0" fill="#243b33" font-weight="400">How are renewals, cancellations</text>
+<text class="label" x="1142" y="2354.0" fill="#243b33" font-weight="400">and additional sites identified?</text>
+<text class="label" x="1142" y="2382.0" fill="#243b33" font-weight="400">Who owns retention and follow-up?</text>
+</g>
+<g><rect x="1124" y="2423.0" width="464" height="110" rx="12" fill="#ffffff" stroke="#85613e" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="2452.0" fill="#243b33" font-weight="400">Which opportunities are signed,</text>
+<text class="label" x="1142" y="2480.0" fill="#243b33" font-weight="400">proposed or only possible? What is</text>
+<text class="label" x="1142" y="2508.0" fill="#243b33" font-weight="400">the next action and decision date?</text>
+</g>
+<g><rect x="330" y="3004.0" width="282" height="82" rx="12" fill="#705982" stroke="#705982" stroke-opacity="0"/>
+<text class="label" x="348" y="3033.0" fill="#ffffff" font-weight="700">04  Offers &amp;</text>
+<text class="label" x="348" y="3061.0" fill="#ffffff" font-weight="700">production</text>
+</g>
+<g><rect x="674" y="2708.0" width="388" height="58" rx="12" fill="#e8eee6" stroke="#705982" stroke-opacity="0.22"/>
+<text class="label" x="692" y="2737.0" fill="#243b33" font-weight="700">Catalogue &amp; commercial terms</text>
+</g>
+<g><rect x="1124" y="2591.0" width="464" height="138" rx="12" fill="#ffffff" stroke="#705982" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="2620.0" fill="#243b33" font-weight="400">What is a product, SKU, scent</text>
+<text class="label" x="1142" y="2648.0" fill="#243b33" font-weight="400">recipe, service package and custom</text>
+<text class="label" x="1142" y="2676.0" fill="#243b33" font-weight="400">project? Which versions must be</text>
+<text class="label" x="1142" y="2704.0" fill="#243b33" font-weight="400">tracked?</text>
+</g>
+<g><rect x="1124" y="2745.0" width="464" height="138" rx="12" fill="#ffffff" stroke="#705982" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="2774.0" fill="#243b33" font-weight="400">What is sold, rented or loaned?</text>
+<text class="label" x="1142" y="2802.0" fill="#243b33" font-weight="400">What do recurring fees include:</text>
+<text class="label" x="1142" y="2830.0" fill="#243b33" font-weight="400">equipment, refills, visits or</text>
+<text class="label" x="1142" y="2858.0" fill="#243b33" font-weight="400">replacement?</text>
+</g>
+<g><rect x="674" y="3016.0" width="388" height="58" rx="12" fill="#e8eee6" stroke="#705982" stroke-opacity="0.22"/>
+<text class="label" x="692" y="3045.0" fill="#243b33" font-weight="700">Custom work &amp; suppliers</text>
+</g>
+<g><rect x="1124" y="2899.0" width="464" height="138" rx="12" fill="#ffffff" stroke="#705982" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="2928.0" fill="#243b33" font-weight="400">Trace a private-label order:</text>
+<text class="label" x="1142" y="2956.0" fill="#243b33" font-weight="400">brief, sample approval, recipe,</text>
+<text class="label" x="1142" y="2984.0" fill="#243b33" font-weight="400">packaging, purchasing, production</text>
+<text class="label" x="1142" y="3012.0" fill="#243b33" font-weight="400">and delivery.</text>
+</g>
+<g><rect x="1124" y="3053.0" width="464" height="138" rx="12" fill="#ffffff" stroke="#705982" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="3082.0" fill="#243b33" font-weight="400">Who owns recipes and approvals?</text>
+<text class="label" x="1142" y="3110.0" fill="#243b33" font-weight="400">What are minimum orders, lead</text>
+<text class="label" x="1142" y="3138.0" fill="#243b33" font-weight="400">times, supplier dependencies and</text>
+<text class="label" x="1142" y="3166.0" fill="#243b33" font-weight="400">rework causes?</text>
+</g>
+<g><rect x="674" y="3324.0" width="388" height="58" rx="12" fill="#e8eee6" stroke="#705982" stroke-opacity="0.22"/>
+<text class="label" x="692" y="3353.0" fill="#243b33" font-weight="700">Quality &amp; economics</text>
+</g>
+<g><rect x="1124" y="3207.0" width="464" height="138" rx="12" fill="#ffffff" stroke="#705982" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="3236.0" fill="#243b33" font-weight="400">How are batches, quality checks</text>
+<text class="label" x="1142" y="3264.0" fill="#243b33" font-weight="400">and supporting product documents</text>
+<text class="label" x="1142" y="3292.0" fill="#243b33" font-weight="400">linked? Who resolves a failed</text>
+<text class="label" x="1142" y="3320.0" fill="#243b33" font-weight="400">batch?</text>
+</g>
+<g><rect x="1124" y="3361.0" width="464" height="138" rx="12" fill="#ffffff" stroke="#705982" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="3390.0" fill="#243b33" font-weight="400">What are price, direct cost and</text>
+<text class="label" x="1142" y="3418.0" fill="#243b33" font-weight="400">contribution by offer? How are</text>
+<text class="label" x="1142" y="3446.0" fill="#243b33" font-weight="400">satisfaction and repeat purchases</text>
+<text class="label" x="1142" y="3474.0" fill="#243b33" font-weight="400">measured?</text>
+</g>
+<g><rect x="330" y="3956.0" width="282" height="82" rx="12" fill="#477858" stroke="#477858" stroke-opacity="0"/>
+<text class="label" x="348" y="3985.0" fill="#ffffff" font-weight="700">05  Delivery &amp;</text>
+<text class="label" x="348" y="4013.0" fill="#ffffff" font-weight="700">service</text>
+</g>
+<g><rect x="674" y="3674.0" width="388" height="58" rx="12" fill="#e8eee6" stroke="#477858" stroke-opacity="0.22"/>
+<text class="label" x="692" y="3703.0" fill="#243b33" font-weight="700">Site &amp; installed equipment</text>
+</g>
+<g><rect x="1124" y="3557.0" width="464" height="138" rx="12" fill="#ffffff" stroke="#477858" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="3586.0" fill="#243b33" font-weight="400">Trace a new site from signed</text>
+<text class="label" x="1142" y="3614.0" fill="#243b33" font-weight="400">agreement to installation and</text>
+<text class="label" x="1142" y="3642.0" fill="#243b33" font-weight="400">acceptance. Who schedules and</text>
+<text class="label" x="1142" y="3670.0" fill="#243b33" font-weight="400">performs the work?</text>
+</g>
+<g><rect x="1124" y="3711.0" width="464" height="138" rx="12" fill="#ffffff" stroke="#477858" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="3740.0" fill="#243b33" font-weight="400">Which device is at which site,</text>
+<text class="label" x="1142" y="3768.0" fill="#243b33" font-weight="400">with what scent and settings? Who</text>
+<text class="label" x="1142" y="3796.0" fill="#243b33" font-weight="400">owns it, and how is its history</text>
+<text class="label" x="1142" y="3824.0" fill="#243b33" font-weight="400">recorded?</text>
+</g>
+<g><rect x="674" y="3968.0" width="388" height="58" rx="12" fill="#e8eee6" stroke="#477858" stroke-opacity="0.22"/>
+<text class="label" x="692" y="3997.0" fill="#243b33" font-weight="700">Stock &amp; replenishment</text>
+</g>
+<g><rect x="1124" y="3865.0" width="464" height="138" rx="12" fill="#ffffff" stroke="#477858" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="3894.0" fill="#243b33" font-weight="400">How are refills and visits</text>
+<text class="label" x="1142" y="3922.0" fill="#243b33" font-weight="400">triggered? Who plans routes,</text>
+<text class="label" x="1142" y="3950.0" fill="#243b33" font-weight="400">stock, purchasing and supplier</text>
+<text class="label" x="1142" y="3978.0" fill="#243b33" font-weight="400">follow-up?</text>
+</g>
+<g><rect x="1124" y="4019.0" width="464" height="110" rx="12" fill="#ffffff" stroke="#477858" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="4048.0" fill="#243b33" font-weight="400">What happens when stock runs out,</text>
+<text class="label" x="1142" y="4076.0" fill="#243b33" font-weight="400">a device fails, a site moves or a</text>
+<text class="label" x="1142" y="4104.0" fill="#243b33" font-weight="400">contract ends?</text>
+</g>
+<g><rect x="674" y="4262.0" width="388" height="58" rx="12" fill="#e8eee6" stroke="#477858" stroke-opacity="0.22"/>
+<text class="label" x="692" y="4291.0" fill="#243b33" font-weight="700">Support &amp; fulfilment</text>
+</g>
+<g><rect x="1124" y="4145.0" width="464" height="138" rx="12" fill="#ffffff" stroke="#477858" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="4174.0" fill="#243b33" font-weight="400">Trace one complaint: channel,</text>
+<text class="label" x="1142" y="4202.0" fill="#243b33" font-weight="400">ticket, priority, owner,</text>
+<text class="label" x="1142" y="4230.0" fill="#243b33" font-weight="400">resolution, cost and customer</text>
+<text class="label" x="1142" y="4258.0" fill="#243b33" font-weight="400">confirmation.</text>
+</g>
+<g><rect x="1124" y="4299.0" width="464" height="138" rx="12" fill="#ffffff" stroke="#477858" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="4328.0" fill="#243b33" font-weight="400">Trace one shop order: payment,</text>
+<text class="label" x="1142" y="4356.0" fill="#243b33" font-weight="400">stock allocation, shipment,</text>
+<text class="label" x="1142" y="4384.0" fill="#243b33" font-weight="400">delivery, return or refund. Which</text>
+<text class="label" x="1142" y="4412.0" fill="#243b33" font-weight="400">systems exchange data?</text>
+</g>
+<g><rect x="330" y="4894.0" width="282" height="82" rx="12" fill="#93624b" stroke="#93624b" stroke-opacity="0"/>
+<text class="label" x="348" y="4923.0" fill="#ffffff" font-weight="700">06  Money &amp;</text>
+<text class="label" x="348" y="4951.0" fill="#ffffff" font-weight="700">evidence</text>
+</g>
+<g><rect x="674" y="4598.0" width="388" height="58" rx="12" fill="#e8eee6" stroke="#93624b" stroke-opacity="0.22"/>
+<text class="label" x="692" y="4627.0" fill="#243b33" font-weight="700">Contract → invoice → cash</text>
+</g>
+<g><rect x="1124" y="4495.0" width="464" height="138" rx="12" fill="#ffffff" stroke="#93624b" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="4524.0" fill="#243b33" font-weight="400">Who invoices each service period</text>
+<text class="label" x="1142" y="4552.0" fill="#243b33" font-weight="400">or milestone? How are invoices</text>
+<text class="label" x="1142" y="4580.0" fill="#243b33" font-weight="400">linked to contracts, sites and</text>
+<text class="label" x="1142" y="4608.0" fill="#243b33" font-weight="400">payments?</text>
+</g>
+<g><rect x="1124" y="4649.0" width="464" height="110" rx="12" fill="#ffffff" stroke="#93624b" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="4678.0" fill="#243b33" font-weight="400">How are deposits, partial</text>
+<text class="label" x="1142" y="4706.0" fill="#243b33" font-weight="400">payments, overdue invoices, VAT</text>
+<text class="label" x="1142" y="4734.0" fill="#243b33" font-weight="400">and CZK/EUR amounts distinguished?</text>
+</g>
+<g><rect x="674" y="4892.0" width="388" height="58" rx="12" fill="#e8eee6" stroke="#93624b" stroke-opacity="0.22"/>
+<text class="label" x="692" y="4921.0" fill="#243b33" font-weight="700">Revenue, cost &amp; cash</text>
+</g>
+<g><rect x="1124" y="4775.0" width="464" height="138" rx="12" fill="#ffffff" stroke="#93624b" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="4804.0" fill="#243b33" font-weight="400">What is recurring contracted</text>
+<text class="label" x="1142" y="4832.0" fill="#243b33" font-weight="400">revenue versus one-off sales and</text>
+<text class="label" x="1142" y="4860.0" fill="#243b33" font-weight="400">pipeline? How are annual fees</text>
+<text class="label" x="1142" y="4888.0" fill="#243b33" font-weight="400">allocated by period?</text>
+</g>
+<g><rect x="1124" y="4929.0" width="464" height="138" rx="12" fill="#ffffff" stroke="#93624b" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="4958.0" fill="#243b33" font-weight="400">Which records explain margin and</text>
+<text class="label" x="1142" y="4986.0" fill="#243b33" font-weight="400">cash: invoices, inventory,</text>
+<text class="label" x="1142" y="5014.0" fill="#243b33" font-weight="400">delivery costs, unpaid bills,</text>
+<text class="label" x="1142" y="5042.0" fill="#243b33" font-weight="400">other accounts and owner funding?</text>
+</g>
+<g><rect x="674" y="5200.0" width="388" height="58" rx="12" fill="#e8eee6" stroke="#93624b" stroke-opacity="0.22"/>
+<text class="label" x="692" y="5229.0" fill="#243b33" font-weight="700">Reconciliation gaps</text>
+</g>
+<g><rect x="1124" y="5083.0" width="464" height="138" rx="12" fill="#ffffff" stroke="#93624b" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="5112.0" fill="#243b33" font-weight="400">Can we connect Stripe orders,</text>
+<text class="label" x="1142" y="5140.0" fill="#243b33" font-weight="400">fees, refunds and payouts? A bank</text>
+<text class="label" x="1142" y="5168.0" fill="#243b33" font-weight="400">payout alone does not identify a</text>
+<text class="label" x="1142" y="5196.0" fill="#243b33" font-weight="400">buyer.</text>
+</g>
+<g><rect x="1124" y="5237.0" width="464" height="138" rx="12" fill="#ffffff" stroke="#93624b" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="5266.0" fill="#243b33" font-weight="400">Reconcile AURES/Mototechna scope,</text>
+<text class="label" x="1142" y="5294.0" fill="#243b33" font-weight="400">Clever/CodeClever identity and</text>
+<text class="label" x="1142" y="5322.0" fill="#243b33" font-weight="400">invoice-period differences before</text>
+<text class="label" x="1142" y="5350.0" fill="#243b33" font-weight="400">combining records.</text>
+</g>
+<g><rect x="330" y="5846.0" width="282" height="82" rx="12" fill="#4c677b" stroke="#4c677b" stroke-opacity="0"/>
+<text class="label" x="348" y="5875.0" fill="#ffffff" font-weight="700">07  Data &amp; next</text>
+<text class="label" x="348" y="5903.0" fill="#ffffff" font-weight="700">actions</text>
+</g>
+<g><rect x="674" y="5550.0" width="388" height="58" rx="12" fill="#e8eee6" stroke="#4c677b" stroke-opacity="0.22"/>
+<text class="label" x="692" y="5579.0" fill="#243b33" font-weight="700">Entities &amp; relationships</text>
+</g>
+<g><rect x="1124" y="5433.0" width="464" height="138" rx="12" fill="#ffffff" stroke="#4c677b" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="5462.0" fill="#243b33" font-weight="400">Validate: entity → sites →</text>
+<text class="label" x="1142" y="5490.0" fill="#243b33" font-weight="400">installed devices; agreement →</text>
+<text class="label" x="1142" y="5518.0" fill="#243b33" font-weight="400">service lines; order → items;</text>
+<text class="label" x="1142" y="5546.0" fill="#243b33" font-weight="400">invoice ↔ payments.</text>
+</g>
+<g><rect x="1124" y="5587.0" width="464" height="138" rx="12" fill="#ffffff" stroke="#4c677b" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="5616.0" fill="#243b33" font-weight="400">For every object: definition,</text>
+<text class="label" x="1142" y="5644.0" fill="#243b33" font-weight="400">unique ID, owner, key fields,</text>
+<text class="label" x="1142" y="5672.0" fill="#243b33" font-weight="400">statuses, source of truth and</text>
+<text class="label" x="1142" y="5700.0" fill="#243b33" font-weight="400">links. What is missing?</text>
+</g>
+<g><rect x="674" y="5858.0" width="388" height="58" rx="12" fill="#e8eee6" stroke="#4c677b" stroke-opacity="0.22"/>
+<text class="label" x="692" y="5887.0" fill="#243b33" font-weight="700">Process &amp; system map</text>
+</g>
+<g><rect x="1124" y="5741.0" width="464" height="138" rx="12" fill="#ffffff" stroke="#4c677b" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="5770.0" fill="#243b33" font-weight="400">For each workflow: trigger → steps</text>
+<text class="label" x="1142" y="5798.0" fill="#243b33" font-weight="400">→ owner → handoff → output.</text>
+<text class="label" x="1142" y="5826.0" fill="#243b33" font-weight="400">Capture rules, exceptions, tools</text>
+<text class="label" x="1142" y="5854.0" fill="#243b33" font-weight="400">and delays.</text>
+</g>
+<g><rect x="1124" y="5895.0" width="464" height="138" rx="12" fill="#ffffff" stroke="#4c677b" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="5924.0" fill="#243b33" font-weight="400">Where are duplicate entries or</text>
+<text class="label" x="1142" y="5952.0" fill="#243b33" font-weight="400">manual transfers? Which system is</text>
+<text class="label" x="1142" y="5980.0" fill="#243b33" font-weight="400">authoritative when records</text>
+<text class="label" x="1142" y="6008.0" fill="#243b33" font-weight="400">disagree?</text>
+</g>
+<g><rect x="674" y="6166.0" width="388" height="58" rx="12" fill="#e8eee6" stroke="#4c677b" stroke-opacity="0.22"/>
+<text class="label" x="692" y="6195.0" fill="#243b33" font-weight="700">Close with decisions</text>
+</g>
+<g><rect x="1124" y="6049.0" width="464" height="138" rx="12" fill="#ffffff" stroke="#4c677b" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="6078.0" fill="#243b33" font-weight="400">Select three problems by impact</text>
+<text class="label" x="1142" y="6106.0" fill="#243b33" font-weight="400">and effort. Assign an owner, next</text>
+<text class="label" x="1142" y="6134.0" fill="#243b33" font-weight="400">action, due date and success</text>
+<text class="label" x="1142" y="6162.0" fill="#243b33" font-weight="400">measure.</text>
+</g>
+<g><rect x="1124" y="6203.0" width="464" height="138" rx="12" fill="#ffffff" stroke="#4c677b" stroke-opacity="0.22"/>
+<text class="label" x="1142" y="6232.0" fill="#243b33" font-weight="400">Separate confirmed facts,</text>
+<text class="label" x="1142" y="6260.0" fill="#243b33" font-weight="400">hypotheses and unknowns. For each</text>
+<text class="label" x="1142" y="6288.0" fill="#243b33" font-weight="400">unknown, name the evidence and who</text>
+<text class="label" x="1142" y="6316.0" fill="#243b33" font-weight="400">will obtain it.</text>
+</g>
+<path d="M48 6417 H1588" stroke="#c8d2c8"/>
+<text x="48" y="6456" font-size="17" fill="#596b62">Context: BUSINESS.md, README.md, working customer notes. Questions and proposed relationships require validation.</text>
+<text x="48" y="6487" font-size="17" fill="#596b62">Scent Blend · Business discovery · 30 October 2026</text>
+</svg>
