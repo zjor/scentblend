@@ -8,3 +8,7 @@ reports/*
 !data/raw/.gitkeep
 !data/categories/.gitkeep
 !data/enriched/.gitkeep
+
+# Local incoming documents
+/inbox/*
+!/inbox/.gitkeep

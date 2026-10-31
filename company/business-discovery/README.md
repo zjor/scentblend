@@ -6,7 +6,7 @@ Prepared for 30 October 2026.
 - [Original Russian SVG](business-checkup-original-ru.svg): all six branches and questions from the supplied image, with spelling and punctuation cleaned up.
 - [Editable question bank](question-bank.md): the adapted questions as Markdown for taking notes.
 
-Both SVGs contain selectable, editable text, vector shapes and connectors, with no external assets. Open in a browser and zoom, or import into a vector editor. They are large scrollable maps, intended for screen use or large-format printing rather than a single A4 page. Rebuild with `python3 docs/business-discovery/build_maps.py` after editing the source trees.
+Both SVGs contain selectable, editable text, vector shapes and connectors, with no external assets. Open in a browser and zoom, or import into a vector editor. They are large scrollable maps, intended for screen use or large-format printing rather than a single A4 page. Rebuild with `python3 company/business-discovery/build_maps.py` after editing the source trees.
 
 ## Run the session
 
@@ -54,7 +54,7 @@ For decisions and open questions, record:
 
 ## Context and interpretation
 
-The adaptation uses [BUSINESS.md](../../BUSINESS.md), [repository documentation](../../README.md), and private working customer notes in `data/enriched/customer-notes.md`. It includes internal reconciliation prompts and should be treated as an internal workshop document. Working notes are not verified contracts; the map deliberately asks for evidence rather than presenting their commercial terms as facts. No private financial amounts are reproduced.
+The adaptation uses [company/identity.md](../../company/identity.md), [financial documentation](../../finance/README.md), and private working customer notes in `data/enriched/customer-notes.md`. It includes internal reconciliation prompts and should be treated as an internal workshop document. Working notes are not verified contracts; the map deliberately asks for evidence rather than presenting their commercial terms as facts. No private financial amounts are reproduced.
 
 The original assumes separate departments and gives significant attention to video/content production. The adaptation asks who performs each function without assuming a department exists. It adds installed equipment, replenishment, suppliers, custom production, e-commerce fulfilment and financial reconciliation. Marketing channel ownership and results sit within demand and sales.
 
@@ -68,7 +68,7 @@ Known context is distinguished from discovery: the business has four publicly de
 - [Russian question bank](question-bank-ru.md) — includes space for session notes.
 - [Russian facilitation guide and source notes](session-guide-ru.md) — explains additions, evidence status, and LinkedIn retrieval limits.
 
-Rebuild this version with `python3 docs/business-discovery/build_maps_ru.py`. It uses the shared renderer in `build_maps.py`; the original Russian redraw and English map remain separate artifacts.
+Rebuild this version with `python3 company/business-discovery/build_maps_ru.py`. It uses the shared renderer in `build_maps.py`; the original Russian redraw and English map remain separate artifacts.
 
 ## Reusable framework
 

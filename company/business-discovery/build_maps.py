@@ -133,7 +133,7 @@ if __name__ == '__main__':
     print('Adapted:', render(adapted,'scentblend-discovery-en.svg','Scent Blend / Business discovery',
       'An interview map for discovering people, processes, business objects and strategic constraints.',
       'For each answer: ask for a real example → identify the owner → inspect the record → capture exceptions.',
-      'Context: BUSINESS.md, README.md, working customer notes. Questions and proposed relationships require validation.'))
+      'Context: company/identity.md, finance/README.md, working customer notes. Questions and proposed relationships require validation.'))
     lines=['# Scent Blend — session question bank', '', 'Session: 30 October 2026. Adapted from the supplied Russian business check-up map and local business context.', '', 'These are discovery questions, not assertions about current operations.', '']
     for c in adapted['children']:
         lines += ['## '+c['label'], '']

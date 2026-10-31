@@ -1,78 +1,36 @@
-# Scent Blend finances
+<p align="center">
+  <a href="https://www.scentblend.cz/">
+    <img src="company/assets/logo.png" alt="Scent Blend" width="400">
+  </a>
+</p>
 
-This project holds bank exports and a manual classification for a simple monthly management P&L. It is not an accounting ledger or a tax return. Company identity and what the business sells are in [`BUSINESS.md`](BUSINESS.md).
+# Scent Blend knowledgebase
 
-## Processing new exports
+Start with the [company identity](company/identity.md).
 
-Reusable processing tools live in [`scripts/`](scripts/README.md). Copy unchanged exports into `data/raw/`, then preview and apply the import:
-
-```sh
-python3 scripts/process_transactions.py
-python3 scripts/process_transactions.py --write
-```
-
-The importer merges overlapping exports by transaction ID, preserves manual classifications and existing suggestions, rebuilds customer totals, and generates a monthly cash movement report. New transactions need classification review. See the [workflow](scripts/README.md) for the subsequent review, P&L, and forecast steps.
-
-After importing, preview suggestions with `python3 scripts/suggest_classifications.py`, then apply them with `--write`. This updates the review file and customer totals and produces `reports/classification_review.md`; it preserves manual classifications and previous suggestions.
-
-After review, run `python3 scripts/build_reports.py --write` to rebuild the provisional P&L cash proxy, customer receipt review, and forecast CSVs using current assumptions. Every month reconciles to bank movements; unresolved costs and missing accounting adjustments keep profit metrics pending.
-
-Run `python3 scripts/project_cashflow.py --write` for a monthly cash-flow sensitivity estimate using the opening balance and spending reference month in `data/enriched/cashflow-assumptions.json`. The output keeps EUR receipts separate from projected CZK balances.
-
-Run `python3 scripts/project_valuation.py --write` for an optimistic year-end operating-value sensitivity through 2030. Private modeling inputs are in `data/enriched/valuation-assumptions.json`; the report distinguishes future enterprise value from current value and shareholder proceeds.
-
-## Files
-
-- `data/raw/` — original bank CSV exports. Keep each export unchanged.
-- `data/enriched/normalized-transactions.csv` — deduplicated bank transactions with separate execution dates and booking timestamps.
-- `data/categories/transactions.csv` — one classification row per bank transaction, matched by `transaction_id` (`Id transakce` in the Raiffeisenbank export).
-- `data/enriched/transactions.csv` — a separate review list with bank context and suggested `guess_bucket` and `guess_customer_name`. Empty suggestions need investigation. These guesses do not change the manual classification file.
-- `data/enriched/customers.csv` — unique customer names derived from the suggested revenue transactions, with receipt counts and gross bank receipts.
-- `data/enriched/customer-notes.md` — structured client profiles with current terms, opportunities, and open invoices from working notes.
-- `data/enriched/customer-registry.csv` — legal names, Czech/Slovak IČO or Swiss UID where found, tax IDs, websites, source URLs, and match status for each client profile.
-- `data/enriched/forecast-assumptions.csv` — current quarterly values and explicit optimistic scenario inputs by revenue stream.
-- `data/enriched/forecast-quarterly.csv` — long-format quarterly results by client and revenue stream.
-- `data/enriched/forecast-summary.csv` — one row per quarter with as-is and optimistic totals in separate CZK and EUR columns.
-- `reports/pnl_provisional.md` — bank-based P&L proxy and the data gaps that prevent an accurate P&L.
-- `reports/cash_movements.md` — generated monthly bank movements across all exports, including transfers and funding.
-- `reports/revenue-forecast.md` — quarterly customer revenue scenarios through 2027 and their assumptions.
-
-All three data directories and generated reports contain private financial information and are excluded from Git.
-
-## Classifying transactions
-
-The classification file has these columns:
-
-| Column | Meaning |
+| Area | What belongs here |
 | --- | --- |
-| `transaction_id` | Stable ID from the bank export. Do not edit. |
-| `transaction_date` | Bank transaction date, in ISO format, for review. |
-| `amount_czk` | Signed amount booked to the CZK account, for review. |
-| `bucket` | One of the buckets below. Blank means not yet reviewed. |
-| `category` | More specific label, such as `candles`, `materials`, `software`, or `rent`. |
-| `customer_name` | Customer associated with a sale or refund, if known. Leave blank for other transactions. |
-| `notes` | Explanation for uncertain or unusual treatment. |
+| [Company](company/README.md) | Identity, discovery, meetings, decisions and direction |
+| [Team](team/README.md) | People, roles, responsibilities, onboarding and people agreements |
+| [Customers](customers/README.md) | Customer card, segmentation and sales and service procedures |
+| [Products](products/README.md) | Catalog, specifications and pricing |
+| [Production](production/README.md) | Recipes, manufacturing and quality procedures |
+| [Inventory](inventory/README.md) | Suppliers, materials and stock-handling procedures |
+| [Finance](finance/README.md) | Financial workflow, assumptions and reporting |
+| [Systems](systems/README.md) | Tool access, navigation and configuration |
 
-Use these `bucket` values:
+## Common tasks
 
-| Bucket | Treatment |
-| --- | --- |
-| `revenue` | Sales and service income; part of P&L. |
-| `cogs` | Direct costs of goods sold or services delivered; part of P&L. Purchases held in inventory need separate timing information. |
-| `opex` | Operating costs such as software, marketing, and rent; part of P&L. |
-| `other_income` | Non-operating income; part of P&L. |
-| `other_expense` | Non-operating expense, including interest; part of P&L. |
-| `capex` | Equipment and other long-lived assets; exclude the full payment from immediate operating profit. Depreciation needs separate records. |
-| `vat` | VAT payments or refunds; track separately from net revenue and costs. |
-| `income_tax` | Income-tax payments or refunds; track separately until reconciled to the relevant period. |
-| `financing` | Loan proceeds or principal repayments. Interest belongs in `other_expense`. |
-| `owner` | Owner contributions or distributions. |
-| `transfer` | Transfers between company accounts, currency conversions, or cash withdrawals. The later use of withdrawn cash needs its own evidence. |
+- [CRM access and documentation](systems/crm/README.md)
+- [Customer card specification](customers/customer-card.md)
+- [Process bank exports and rebuild reports](finance/README.md#processing-new-exports)
+- [Check stock on hand](data/inventory/README.md#stock-on-hand)
+- [Read meeting notes](company/meetings/)
 
-Refunds or reversals normally use the same bucket as the original transaction and retain their signed amount. If a transaction contains several purposes, explain the split in `notes`; a later version can support multiple allocation rows.
+## Adding knowledge
 
-## First report
+Keep procedures with their business area. Give each SOP an owner, trigger, steps, expected result, exceptions and last-reviewed date. Link across areas rather than duplicating instructions. Add subfolders when there is content to organize.
 
-A bank export supports a cash movement report immediately. A reliable P&L also needs invoices, VAT treatment, inventory or cost-of-goods information, unpaid bills, and any cash or other bank accounts. Until those are available, classify the bank transactions and label any resulting P&L as an estimate based on this account only.
+Keep actual customer and order records in the CRM. Keep signed agreements in Google Drive when connected, with people agreement links under `team/` and customer agreement links under `customers/`. Access to source documents is managed in their source system.
 
-The enriched file contains suggestions based on bank text, not verified accounting entries. In particular, a bank receipt can include VAT, and a purchase of stock is not necessarily a cost of goods sold in the payment month. Confirm customer names and P&L treatment against invoices before using the guesses in a report. Stripe payouts do not identify individual customers in this export.
+Operational inputs remain in `data/`, generated outputs in `reports/`, and automation in [scripts/](scripts/README.md). Private financial inputs and reports are excluded from Git and may only be available in the working copy.
