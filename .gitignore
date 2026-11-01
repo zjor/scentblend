@@ -12,3 +12,7 @@ reports/*
 # Local incoming documents
 /inbox/*
 !/inbox/.gitkeep
+
+# Local secrets
+.env
+.venv/
