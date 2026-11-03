@@ -10,4 +10,4 @@ For each entity, record its business definition, identifier, fields, field types
 
 Start by validating customers, contacts, sites, opportunities, orders and agreements. These are candidate business entities; their mapping to CRM objects still needs confirmation.
 
-The [customer card](../../customers/customer-card.md) holds the business requirements. Actual customer and order records remain in the CRM.
+The proposed entities and relationships are in the [data model](data-model.md). The [customer card](../../customers/customer-card.md) holds the business requirements. Actual customer and order records remain in the CRM.

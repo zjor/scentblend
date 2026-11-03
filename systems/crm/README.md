@@ -9,6 +9,7 @@ Pipedrive is identified as the CRM in the [October 30 meeting analysis](../../co
 | How to request access | To confirm |
 
 - [Navigation and task guides](navigation.md)
+- [Data model](data-model.md)
 - [Configuration specification](configuration.md)
 - [Customer card requirements](../../customers/customer-card.md)
 
