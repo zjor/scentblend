@@ -1,8 +1,22 @@
-# CRM data model
+# CRM
 
 Status: approved 2026-11-03; not yet applied in Pipedrive. Interim: products stay as text until the catalogue exists (see below). Current-state facts were read from the workspace on 2026-11-03.
 
-Business entities and how they map to Pipedrive objects. Requirements behind the fields are in the [customer card](../../customers/customer-card.md); applied settings belong in the [configuration specification](configuration.md).
+Pipedrive is the company CRM ([October 30 meeting analysis](../company/meetings/2026-10-30-apartment-letna-i-ii-analysis.md)). This page holds access details, the data model and its current state. Actual customer and order records live in Pipedrive, not here.
+
+## Access
+
+| Access detail | Status |
+| --- | --- |
+| Company workspace URL | To confirm |
+| Access owner | To confirm |
+| How to request access | To confirm |
+
+Credentials belong in the company's credential manager.
+
+## Data model
+
+Business entities and how they map to Pipedrive objects.
 
 ## Diagram
 
@@ -172,6 +186,8 @@ Contract to Order has no native link. Custom fields can reference an organizatio
 
 ## Current state (2026-11-03)
 
+Working customer profiles in `data/enriched/customer-notes.md` and registry data in `data/enriched/customer-registry.csv` are private supporting material. Check their claims against source records.
+
 - One pipeline mixes sales and fulfillment stages; one deal equals one order.
 - Organization holds the service profile as seven free-text custom fields, filled on few records.
 - Products are ad hoc per deal, with price 0, no code and no category.
@@ -201,7 +217,7 @@ Decided 2026-11-03. Until the product catalogue exists, a contract deal has no p
 | price_per_period | monetary | Basis for invoicing and forecast |
 | next_billing_date | date | Invoice reminder |
 
-Order deals may still use product lines once products exist. Converting contract text to product lines is roadmap task 9 in [company/roadmap.md](../../company/roadmap.md).
+Order deals may still use product lines once products exist. Converting contract text to product lines is roadmap task 9 in [company/roadmap.md](../company/roadmap.md).
 
 ## Open decisions
 
@@ -209,3 +225,5 @@ Order deals may still use product lines once products exist. Converting contract
 - Allowed values for `service_type` and product `category`.
 - Who creates each period's order deal: a person, a Pipedrive automation or a script.
 - Reporting currency for mixed CZK and EUR contracts.
+- Customer card: required fields, allowed values and owners for legal entity identification, contacts, sites, responsible person and next action. Discussed at the [October 30 meeting](../company/meetings/2026-10-30-apartment-letna-i-ii-analysis.md): customer type (recurring, one-off, lost), activity, industry, products and services, payment frequency, upsell opportunities.
+- Navigation guide: document finding and updating a customer and progressing an order after a walkthrough of the workspace.
