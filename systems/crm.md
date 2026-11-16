@@ -194,7 +194,7 @@ An Activity is the next action with a customer: a dated call, meeting, email, de
 
 ## Segmentation
 
-Status: proposal 2026-11-06, not approved; roadmap task 2 in [company/roadmap.md](../company/roadmap.md). Based on the customer card discussion at the [October 30 meeting](../company/meetings/2026-10-30-apartment-letna-i-ii-analysis.md), the [November 1 meeting](../company/meetings/2026-11-01-riders-coffee-analysis.md) and the service lines in [company/identity.md](../company/identity.md).
+Status: proposal 2026-11-06, not approved; YouTrack [TM-6](https://scentblend.youtrack.cloud/issue/TM-6). Based on the customer card discussion at the [October 30 meeting](../company/meetings/2026-10-30-apartment-letna-i-ii-analysis.md), the [November 1 meeting](../company/meetings/2026-11-01-riders-coffee-analysis.md) and the service lines in [company/identity.md](../company/identity.md).
 
 Principle: each dimension answers one question and serves at least one process. A dimension that no process uses is not added.
 
@@ -379,7 +379,7 @@ Decided 2026-11-03. Until the product catalogue exists, a contract deal has no p
 | price_per_period | monetary | Basis for invoicing and forecast |
 | next_billing_date | date | Invoice reminder |
 
-Order deals may still use product lines once products exist. Converting contract text to product lines is roadmap task 9 in [company/roadmap.md](../company/roadmap.md).
+Order deals may still use product lines once products exist. Converting contract text to product lines is YouTrack [TM-12](https://scentblend.youtrack.cloud/issue/TM-12).
 
 ## Open decisions
 
