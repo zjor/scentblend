@@ -17,3 +17,9 @@ reports/*
 # Local secrets
 .env
 .venv/
+
+# Spikes: raw data and generated outputs stay local
+spikes/*/data/*
+spikes/*/reports/*
+!spikes/*/data/.gitkeep
+!spikes/*/reports/.gitkeep

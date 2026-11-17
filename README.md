@@ -13,6 +13,7 @@ Start with the [company identity](company/identity.md).
 | [Company](company/README.md) | Identity, discovery, meetings, workshops, decisions and direction |
 | [Finance](finance/README.md) | Financial workflow, assumptions and reporting |
 | [Systems](systems/) | Tool access and configuration, e.g. [CRM](systems/crm.md) |
+| [Spikes](spikes/README.md) | Time-boxed research; each spike keeps its code, data and reports in one folder |
 
 ## Common tasks
 
