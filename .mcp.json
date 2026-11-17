@@ -4,6 +4,16 @@
       "type": "http",
       "url": "https://scentblend.youtrack.cloud/mcp",
       "headersHelper": "/Users/zjor/projects/scentblend/.codex/youtrack-headers.sh"
+    },
+    "mail-personal": {
+      "type": "http",
+      "url": "https://imap.scentblend.royz.cc/mcp",
+      "headersHelper": "./scripts/imap-mcp-headers.sh"
+    },
+    "mail-cooperation": {
+      "type": "http",
+      "url": "https://imap.scentblend.royz.cc/mcp",
+      "headersHelper": "IMAP_MCP_ENV_FILE=./.env.cooperation.local ./scripts/imap-mcp-headers.sh"
     }
   }
 }

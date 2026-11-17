@@ -1,0 +1,64 @@
+#!/usr/bin/env bash
+# curl with the imap-mcp request headers added. Use it for the attachment
+# download and upload endpoints:
+#
+#   imap-mcp-curl -o ./inbox-files/invoice.pdf "$DOWNLOAD_URL"
+#   imap-mcp-curl -F file=@offer.pdf "$UPLOAD_URL"
+#
+# The script already passes --fail-with-body -sS. Do not add -f/--fail:
+# curl rejects it together with --fail-with-body ("option -f: is badly used here").
+#
+# Values come from the environment or an env file, by default ./.env.local
+# (override with IMAP_MCP_ENV_FILE). They are passed to curl through a config on stdin,
+# so they never show in the process list or in the output.
+set -euo pipefail
+
+env_file="${IMAP_MCP_ENV_FILE:-./.env.local}"
+IMAP_MCP_TOKEN="${IMAP_MCP_TOKEN:-}" IMAP_USER="${IMAP_USER:-}"
+IMAP_PASSWORD="${IMAP_PASSWORD:-}" IMAP_HOST="${IMAP_HOST:-}"
+
+# Read KEY=VALUE lines the same way the server reads .env.local: no shell
+# expansion, an optional "export " prefix, optional matching quotes. The
+# file is never executed. Only the variables below are taken from it, and
+# a variable already set in the environment wins.
+[[ -f "$env_file" ]] && while IFS= read -r line || [[ -n "$line" ]]; do
+	line="${line#"${line%%[![:space:]]*}"}"
+	line="${line%"${line##*[![:space:]]}"}"
+	[[ -z "$line" || "$line" == \#* || "$line" != *=* ]] && continue
+	line="${line#export }"
+	key="${line%%=*}"
+	key="${key%"${key##*[![:space:]]}"}"
+	val="${line#*=}"
+	val="${val#"${val%%[![:space:]]*}"}"
+	if [[ ${#val} -ge 2 && ( "$val" == \"*\" || "$val" == \'*\' ) ]]; then
+		val="${val:1:${#val}-2}"
+	fi
+	case "$key" in
+	IMAP_MCP_TOKEN | IMAP_USER | IMAP_PASSWORD | IMAP_HOST)
+		[[ -z "${!key}" ]] && printf -v "$key" '%s' "$val"
+		;;
+	esac
+done <"$env_file"
+
+for v in IMAP_MCP_TOKEN IMAP_USER IMAP_PASSWORD; do
+	if [[ -z "${!v}" ]]; then
+		echo "imap-mcp-curl: $v is not set (environment or $env_file)" >&2
+		exit 1
+	fi
+done
+
+# curl config syntax: a quoted value with \ and " escaped.
+quote() {
+	local v=${1//\\/\\\\}
+	v=${v//\"/\\\"}
+	printf '"%s"' "$v"
+}
+
+{
+	printf 'header = %s\n' "$(quote "Authorization: Bearer $IMAP_MCP_TOKEN")"
+	printf 'header = %s\n' "$(quote "X-IMAP-Username: $IMAP_USER")"
+	printf 'header = %s\n' "$(quote "X-IMAP-Password: $IMAP_PASSWORD")"
+	if [[ -n "${IMAP_HOST:-}" ]]; then
+		printf 'header = %s\n' "$(quote "X-IMAP-Host: $IMAP_HOST")"
+	fi
+} | curl --fail-with-body -sS --config - "$@"
