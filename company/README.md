@@ -5,6 +5,7 @@ Company identity, direction, discovery, meetings, workshops and decisions.
 - [Company identity](identity.md)
 - [Дорожная карта и решения](roadmap.md)
 - [План по итогам встречи и открытые вопросы](meetings/2026-10-30-apartment-letna-i-ii-analysis.md#follow-up)
+- [Team](team/README.md)
 - [Brand assets](assets/README.md)
 - [Business discovery](business-discovery/README.md)
 - [Meeting notes and source materials](meetings/)
