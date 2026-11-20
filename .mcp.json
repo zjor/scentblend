@@ -14,6 +14,10 @@
       "type": "http",
       "url": "https://imap.scentblend.royz.cc/mcp",
       "headersHelper": "IMAP_MCP_ENV_FILE=./.env.cooperation.local ./scripts/imap-mcp-headers.sh"
+    },
+    "pipedrive": {
+      "type": "http",
+      "url": "https://mcp.pipedrive.ai/mcp"
     }
   }
 }
