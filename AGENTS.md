@@ -6,4 +6,6 @@ The default YouTrack project for task management is [TM](https://scentblend.yout
 
 Business identity (legal entity, IČO, services, e-shop, public references) is in [company/identity.md](company/identity.md). Read it before working on anything customer- or company-facing.
 
+Before writing email drafts, read [systems/mail.md](systems/mail.md). It covers drafts, attachments and the required formatting (Verdana 10pt).
+
 Before searching Google Drive, read [systems/google-drive.md](systems/google-drive.md). It maps each folder to its purpose and folder ID.
