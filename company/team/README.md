@@ -22,6 +22,7 @@ Source: the team list in Google Drive [`Tým/Новый документ`](https
 | Sergey Royz | Сергей | Head of IT | Core | Active | sergey@scent-blend.com | zjor.se@gmail.com | +420 774 053 509 | | |
 | Darya Frolova | Dasha | Project manager | Core | Active | scentblend.factory@gmail.com | doreechka@gmail.com, doreechka@icloud.com | +420 737 691 915 | | [DPP 2026](https://drive.google.com/file/d/1GC2I_LAlpUmYbmBB4z3msEv47bcp8K-m/view) |
 | Mariya Abramyan | Mariya | Product manager | Core | Active | cooperation@scent-blend.com | mariiiabe8@gmail.com | +420 739 613 755 | | |
+| Arina Manina | Арина | Product manager | Core | Active | | maninaarina@gmail.com | | | |
 | Mariia Khvyts | | Marketing manager | Core | Active | | mariiakhvyts@gmail.com | | | |
 | Maria Zamkina | | Art director | Core | Active | | zamkinamaria@gmail.com | +420 774 210 585 | | |
 | Edita | | Obchodní zástupce (sales representative) | Core | Active | | deverouxedita@gmail.com | | | |
